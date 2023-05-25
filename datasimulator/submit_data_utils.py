@@ -35,15 +35,16 @@ def submit_test_data(host, project, dir, access_token_file, max_chunk_size=1):
     except IndexError as e:
         logger.error("Can not create program. Detail {}".format((e)))
         return
-
+    temp = json.dumps(data)
+    print(temp)
     response = requests.put(
         api_root_endpoint,
-        data=json.dumps(data),
+        data=temp,
         headers={
-            "content-type": "application/json",
             "Authorization": "bearer " + token,
         },
     )
+    print(response.request.body)
 
     if response.status_code not in [200, 201]:
         logger.error("Can not create the program. Response {}".format(response.json()))

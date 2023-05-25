@@ -154,7 +154,7 @@ class Node(object):
 
         return pass_validation, is_submittable
 
-    def construct_property_generator_template(self, required_only=True):
+    def construct_property_generator_template(self, required_only=False):
         """
         Construct generator template for non-link properties. This template is
         used to generate data in batch.
@@ -303,7 +303,7 @@ class Node(object):
                 "error_type": "DictionaryError",
             }
 
-    def simulate_data(self, n_samples=1, random=False, required_only=True):
+    def simulate_data(self, n_samples=1, random=False, required_only=False):
         """
         Simulate data for the current node
 
@@ -430,8 +430,16 @@ class Node(object):
             simulated_data(list): simulated_data is updated
 
         """
+        print("------------------------------")
+        print("[node name]", self)
+        print("[required links]", self.required_links)
+        print("[simulated data]", simulated_data)
         for link_node in self.required_links:
+            print("[link node]", link_node)
+            print("[link node]", link_node['name'], link_node['node'].__dict__)
             for idx, sample in enumerate(simulated_data):
+                print("==--==")
+                print("[loop]", idx, sample)
                 if link_node["name"] == "projects":
                     sample[link_node["name"]] = {"code": self.project}
                     continue
@@ -442,12 +450,17 @@ class Node(object):
                             link_node["node"].simulated_dataset
                         )
                     else:
+                        temp = link_node["node"].simulated_dataset
+                        if not isinstance(temp, list):
+                            temp = [temp]
                         choosen_sample = (
-                            link_node["node"].simulated_dataset[idx]
+                            temp[idx]
                             if idx < len(link_node["node"].simulated_dataset)
                             else random_choice(link_node["node"].simulated_dataset)
                         )
-                    if choosen_sample:
+                    print("->->->->->[chosen]", choosen_sample)
+                    if choosen_sample and "submitter_id" in choosen_sample:
+                        print("FOUND")
                         sample[link_node["name"]] = {
                             "submitter_id": choosen_sample["submitter_id"]
                         }
@@ -457,6 +470,8 @@ class Node(object):
                             "submitter_id"
                         ]
                     }
+                print("==--==")
+        print("------------------------------")
 
     def _simulate_submitter_id(self):
         return self.name + "_" + generate_string_data()
