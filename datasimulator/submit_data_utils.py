@@ -26,29 +26,29 @@ def submit_test_data(host, project, dir, access_token_file, max_chunk_size=1):
         logger.error("There is no input token text file. Continue anyway!")
 
     # Create program
-    try:
-        data = {
-            "dbgap_accession_number": project.split("/")[0],
-            "type": "program",
-            "name": project.split("/")[0],
-        }
-    except IndexError as e:
-        logger.error("Can not create program. Detail {}".format((e)))
-        return
-    temp = json.dumps(data)
-    print(temp)
-    response = requests.put(
-        api_root_endpoint,
-        data=temp,
-        headers={
-            "Authorization": "bearer " + token,
-        },
-    )
-    print(response.request.body)
+    # try:
+    #     data = {
+    #         "dbgap_accession_number": project.split("/")[0],
+    #         "type": "program",
+    #         "name": project.split("/")[0],
+    #     }
+    # except IndexError as e:
+    #     logger.error("Can not create program. Detail {}".format((e)))
+    #     return
+    # temp = json.dumps(data)
+    # print(temp)
+    # response = requests.put(
+    #     api_root_endpoint,
+    #     data=temp,
+    #     headers={
+    #         "Authorization": "bearer " + token,
+    #     },
+    # )
+    # print(response.request.body)
 
-    if response.status_code not in [200, 201]:
-        logger.error("Can not create the program. Response {}".format(response.json()))
-        return
+    # if response.status_code not in [200, 201]:
+    #     logger.error("Can not create the program. Response {}".format(response.json()))
+    #     return
 
     submission_order = ""
     if os.path.isfile(join(dir, "DataImportOrder.txt")):
@@ -76,21 +76,21 @@ def submit_test_data(host, project, dir, access_token_file, max_chunk_size=1):
         with open(complete_fname, "r") as rfile:
             data = json.loads(rfile.read())
             if fname == "project":
-                response = requests.put(
-                    api_program_endpoint,
-                    data=json.dumps(data),
-                    headers={
-                        "content-type": "application/json",
-                        "Authorization": "bearer " + token,
-                    },
-                )
-                if response.status_code not in [200, 201]:
-                    logger.error(
-                        "Can not create the project. Response {}".format(
-                            response.json()
-                        )
-                    )
-                    return
+                # response = requests.put(
+                #     api_program_endpoint,
+                #     data=json.dumps(data),
+                #     headers={
+                #         "content-type": "application/json",
+                #         "Authorization": "bearer " + token,
+                #     },
+                # )
+                # if response.status_code not in [200, 201]:
+                #     logger.error(
+                #         "Can not create the project. Response {}".format(
+                #             response.json()
+                #         )
+                #     )
+                #     return
                 continue
 
             if not isinstance(data, list):
