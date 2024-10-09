@@ -1,0 +1,62 @@
+[
+    {
+        "type": "pb_social_risk_assessment",
+        "submitter_id": "25pb_social_risk_assessment0",
+        "sdhfinancestrainscl": "Somewhat hard",
+        "sdhfoodinsecurity1scl": "Sometimes true",
+        "sdhfoodinsecurity2scl": "Sometimes true",
+        "sdhtransportationneed1yn": "1",
+        "sdhtransportationneed2yn": "1",
+        "sdhhousinginstability1txt": "2",
+        "sdhhousinginstability2yn": "1",
+        "sdhhousinginstability3yn": "1",
+        "pb_health_economics": {
+            "submitter_id": "25pb_health_economics0"
+        }
+    },
+    {
+        "type": "pb_social_risk_assessment",
+        "submitter_id": "25pb_social_risk_assessment1",
+        "sdhfinancestrainscl": "Not very hard",
+        "sdhfoodinsecurity1scl": "Sometimes true",
+        "sdhfoodinsecurity2scl": "Sometimes true",
+        "sdhtransportationneed1yn": "1",
+        "sdhtransportationneed2yn": "1",
+        "sdhhousinginstability1txt": "1",
+        "sdhhousinginstability2yn": "1",
+        "sdhhousinginstability3yn": "1",
+        "pb_health_economics": {
+            "submitter_id": "25pb_health_economics0"
+        }
+    },
+    {
+        "type": "pb_social_risk_assessment",
+        "submitter_id": "25pb_social_risk_assessment2",
+        "sdhfinancestrainscl": "Hard",
+        "sdhfoodinsecurity1scl": "Often True",
+        "sdhfoodinsecurity2scl": "Often True",
+        "sdhtransportationneed1yn": "1",
+        "sdhtransportationneed2yn": "1",
+        "sdhhousinginstability1txt": "1",
+        "sdhhousinginstability2yn": "1",
+        "sdhhousinginstability3yn": "1",
+        "pb_health_economics": {
+            "submitter_id": "25pb_health_economics0"
+        }
+    },
+    {
+        "type": "pb_social_risk_assessment",
+        "submitter_id": "25pb_social_risk_assessment3",
+        "sdhfinancestrainscl": "Not very hard",
+        "sdhfoodinsecurity1scl": "Never true",
+        "sdhfoodinsecurity2scl": "Never true",
+        "sdhtransportationneed1yn": "1",
+        "sdhtransportationneed2yn": "1",
+        "sdhhousinginstability1txt": "1",
+        "sdhhousinginstability2yn": "0",
+        "sdhhousinginstability3yn": "0",
+        "pb_health_economics": {
+            "submitter_id": "25pb_health_economics0"
+        }
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "type": "pb_promis_anxiety",
+        "submitter_id": "25pb_promis_anxiety0",
+        "promisfeelfearflpst7dyscl": "Always",
+        "promisdifffcsanxpst7dyscl": "Often",
+        "promisovrwhlmwrypst7dyscl": "Sometimes",
+        "promisuneasyfeelpst7dyscl": "Often",
+        "promisanx4atotalscore": 16,
+        "pb_anxieties": {
+            "submitter_id": "25pb_anxiety0"
+        }
+    },
+    {
+        "type": "pb_promis_anxiety",
+        "submitter_id": "25pb_promis_anxiety1",
+        "promisfeelfearflpst7dyscl": "Always",
+        "promisdifffcsanxpst7dyscl": "Often",
+        "promisovrwhlmwrypst7dyscl": "Always",
+        "promisuneasyfeelpst7dyscl": "Often",
+        "promisanx4atotalscore": 18,
+        "pb_anxieties": {
+            "submitter_id": "25pb_anxiety0"
+        }
+    },
+    {
+        "type": "pb_promis_anxiety",
+        "submitter_id": "25pb_promis_anxiety2",
+        "promisfeelfearflpst7dyscl": "Often",
+        "promisdifffcsanxpst7dyscl": "Always",
+        "promisovrwhlmwrypst7dyscl": "Often",
+        "promisuneasyfeelpst7dyscl": "Always",
+        "promisanx4atotalscore": 18,
+        "pb_anxieties": {
+            "submitter_id": "25pb_anxiety0"
+        }
+    },
+    {
+        "type": "pb_promis_anxiety",
+        "submitter_id": "25pb_promis_anxiety3",
+        "promisfeelfearflpst7dyscl": "Often",
+        "promisdifffcsanxpst7dyscl": "Always",
+        "promisovrwhlmwrypst7dyscl": "Always",
+        "promisuneasyfeelpst7dyscl": "Always",
+        "promisanx4atotalscore": 19,
+        "pb_anxieties": {
+            "submitter_id": "25pb_anxiety0"
+        }
+    }
+]

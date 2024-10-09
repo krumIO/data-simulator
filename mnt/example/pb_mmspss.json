@@ -1,0 +1,58 @@
+[
+    {
+        "type": "pb_mmspss",
+        "submitter_id": "25pb_mmspss0",
+        "mspssspecpersonneed": "Neutral",
+        "mspssfamemosup": "Mildly Agree",
+        "mspssspeccomfort": "Strongly Disagree",
+        "mspssfriendjoysor": "Mildly Disagree",
+        "mspssfamdecision": "Strongly Agree",
+        "mspssfriendtalkprob": "Very Strongly Disagree",
+        "mspssscoreshort": 3.5,
+        "pb_socials": {
+            "submitter_id": "25pb_social0"
+        }
+    },
+    {
+        "type": "pb_mmspss",
+        "submitter_id": "25pb_mmspss1",
+        "mspssspecpersonneed": "Strongly Disagree",
+        "mspssfamemosup": "Mildly Agree",
+        "mspssspeccomfort": "Mildly Disagree",
+        "mspssfriendjoysor": "Neutral",
+        "mspssfamdecision": "Strongly Agree",
+        "mspssfriendtalkprob": "Very Strongly Disagree",
+        "mspssscoreshort": 3.5,
+        "pb_socials": {
+            "submitter_id": "25pb_social0"
+        }
+    },
+    {
+        "type": "pb_mmspss",
+        "submitter_id": "25pb_mmspss2",
+        "mspssspecpersonneed": "Very Strongly Agree",
+        "mspssfamemosup": "Strongly Agree",
+        "mspssspeccomfort": "Very Strongly Agree",
+        "mspssfriendjoysor": "Strongly Agree",
+        "mspssfamdecision": "Very Strongly Agree",
+        "mspssfriendtalkprob": "Strongly Agree",
+        "mspssscoreshort": 6.5,
+        "pb_socials": {
+            "submitter_id": "25pb_social0"
+        }
+    },
+    {
+        "type": "pb_mmspss",
+        "submitter_id": "25pb_mmspss3",
+        "mspssspecpersonneed": "Very Strongly Disagree",
+        "mspssfamemosup": "Strongly Disagree",
+        "mspssspeccomfort": "Very Strongly Disagree",
+        "mspssfriendjoysor": "Strongly Disagree",
+        "mspssfamdecision": "Mildly Disagree",
+        "mspssfriendtalkprob": "Very Strongly Disagree",
+        "mspssscoreshort": 1.6666666666666667,
+        "pb_socials": {
+            "submitter_id": "25pb_social0"
+        }
+    }
+]

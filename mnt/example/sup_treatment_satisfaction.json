@@ -1,0 +1,58 @@
+[
+    {
+        "type": "sup_treatment_satisfaction",
+        "submitter_id": "25sup_treatment_satisfaction0",
+        "suptxrecdyn": "1",
+        "suptxorganized": "Agree a little",
+        "suptxsatisfied": "Agree somewhat",
+        "suptxefficient": "Moderately agree",
+        "suptxperscounsel": "Moderately agree",
+        "suptxmedoud": "Agree somewhat",
+        "suptxoverall": 2.8,
+        "pb_stigma_discriminations": {
+            "submitter_id": "25pb_stigma_discrimination0"
+        }
+    },
+    {
+        "type": "sup_treatment_satisfaction",
+        "submitter_id": "25sup_treatment_satisfaction1",
+        "suptxrecdyn": "1",
+        "suptxorganized": "Strongly agree",
+        "suptxsatisfied": "Strongly agree",
+        "suptxefficient": "Moderately agree",
+        "suptxperscounsel": "Moderately agree",
+        "suptxmedoud": "Strongly agree",
+        "suptxoverall": 1.4,
+        "pb_stigma_discriminations": {
+            "submitter_id": "25pb_stigma_discrimination0"
+        }
+    },
+    {
+        "type": "sup_treatment_satisfaction",
+        "submitter_id": "25sup_treatment_satisfaction2",
+        "suptxrecdyn": "1",
+        "suptxorganized": "Agree somewhat",
+        "suptxsatisfied": "Moderately agree",
+        "suptxefficient": "Moderately agree",
+        "suptxperscounsel": "Strongly agree",
+        "suptxmedoud": "Moderately agree",
+        "suptxoverall": 2,
+        "pb_stigma_discriminations": {
+            "submitter_id": "25pb_stigma_discrimination0"
+        }
+    },
+    {
+        "type": "sup_treatment_satisfaction",
+        "submitter_id": "25sup_treatment_satisfaction3",
+        "suptxrecdyn": "1",
+        "suptxorganized": "Agree a little",
+        "suptxsatisfied": "Agree a little",
+        "suptxefficient": "Agree somewhat",
+        "suptxperscounsel": "Agree somewhat",
+        "suptxmedoud": "Agree a little",
+        "suptxoverall": 3.6,
+        "pb_stigma_discriminations": {
+            "submitter_id": "25pb_stigma_discrimination0"
+        }
+    }
+]

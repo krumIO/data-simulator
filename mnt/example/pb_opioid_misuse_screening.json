@@ -1,0 +1,46 @@
+[
+    {
+        "type": "pb_opioid_misuse_screening",
+        "submitter_id": "25pb_opioid_misuse_screening0",
+        "omsobtainedothr": "Rarely",
+        "omsranout": "Sometimes",
+        "omsneedmore": "Often",
+        "omstakemoreopioid": "Often",
+        "pb_substance_uses": {
+            "submitter_id": "25pb_substance_use0"
+        }
+    },
+    {
+        "type": "pb_opioid_misuse_screening",
+        "submitter_id": "25pb_opioid_misuse_screening1",
+        "omsobtainedothr": "Sometimes",
+        "omsranout": "Often",
+        "omsneedmore": "Often",
+        "omstakemoreopioid": "Almost Always",
+        "pb_substance_uses": {
+            "submitter_id": "25pb_substance_use0"
+        }
+    },
+    {
+        "type": "pb_opioid_misuse_screening",
+        "submitter_id": "25pb_opioid_misuse_screening2",
+        "omsobtainedothr": "Often",
+        "omsranout": "Sometimes",
+        "omsneedmore": "Almost Always",
+        "omstakemoreopioid": "Almost Always",
+        "pb_substance_uses": {
+            "submitter_id": "25pb_substance_use0"
+        }
+    },
+    {
+        "type": "pb_opioid_misuse_screening",
+        "submitter_id": "25pb_opioid_misuse_screening3",
+        "omsobtainedothr": "Sometimes",
+        "omsranout": "Often",
+        "omsneedmore": "Sometimes",
+        "omstakemoreopioid": "Often",
+        "pb_substance_uses": {
+            "submitter_id": "25pb_substance_use0"
+        }
+    }
+]

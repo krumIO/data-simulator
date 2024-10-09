@@ -1,0 +1,38 @@
+[
+    {
+        "type": "pb_cigarette_and_e_cigarette_use",
+        "submitter_id": "25pb_cigarette_and_e_cigarette_use0",
+        "cigperdayscl": "10",
+        "ecigusedays": "25",
+        "pb_substance_uses": {
+            "submitter_id": "25pb_substance_use0"
+        }
+    },
+    {
+        "type": "pb_cigarette_and_e_cigarette_use",
+        "submitter_id": "25pb_cigarette_and_e_cigarette_use1",
+        "cigperdayscl": "6",
+        "ecigusedays": "20",
+        "pb_substance_uses": {
+            "submitter_id": "25pb_substance_use0"
+        }
+    },
+    {
+        "type": "pb_cigarette_and_e_cigarette_use",
+        "submitter_id": "25pb_cigarette_and_e_cigarette_use2",
+        "cigperdayscl": "10",
+        "ecigusedays": "30",
+        "pb_substance_uses": {
+            "submitter_id": "25pb_substance_use0"
+        }
+    },
+    {
+        "type": "pb_cigarette_and_e_cigarette_use",
+        "submitter_id": "25pb_cigarette_and_e_cigarette_use3",
+        "cigperdayscl": "6",
+        "ecigusedays": "20",
+        "pb_substance_uses": {
+            "submitter_id": "25pb_substance_use0"
+        }
+    }
+]

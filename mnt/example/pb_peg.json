@@ -1,0 +1,35 @@
+[
+    {
+        "type": "pb_peg",
+        "submitter_id": "25pb_peg0",
+        "pegavgpainpastweekscl": "9",
+        "pegpainpastwkenjoylifescl": "8",
+        "pegpainpastwkgenrlactscl": "7",
+        "pegoverallscore": 8,
+        "pb_pains": {
+            "submitter_id": "25pb_pain0"
+        }
+    },
+    {
+        "type": "pb_peg",
+        "submitter_id": "25pb_peg1",
+        "pegavgpainpastweekscl": "10",
+        "pegpainpastwkenjoylifescl": "9",
+        "pegpainpastwkgenrlactscl": "8",
+        "pegoverallscore": 9,
+        "pb_pains": {
+            "submitter_id": "25pb_pain0"
+        }
+    },
+    {
+        "type": "pb_peg",
+        "submitter_id": "25pb_peg2",
+        "pegavgpainpastweekscl": "9",
+        "pegpainpastwkenjoylifescl": "8",
+        "pegpainpastwkgenrlactscl": "9",
+        "pegoverallscore": 8.666666666666666,
+        "pb_pains": {
+            "submitter_id": "25pb_pain0"
+        }
+    }
+]

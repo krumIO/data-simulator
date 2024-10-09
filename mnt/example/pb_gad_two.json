@@ -1,0 +1,42 @@
+[
+    {
+        "type": "pb_gad_two",
+        "submitter_id": "25pb_gad_two0",
+        "gad2feelnervscale": "Nearly every day",
+        "gad2notstopwryscale": "More than half the days",
+        "gad2totalscore": 5,
+        "pb_anxieties": {
+            "submitter_id": "25pb_anxiety0"
+        }
+    },
+    {
+        "type": "pb_gad_two",
+        "submitter_id": "25pb_gad_two1",
+        "gad2feelnervscale": "Nearly every day",
+        "gad2notstopwryscale": "More than half the days",
+        "gad2totalscore": 5,
+        "pb_anxieties": {
+            "submitter_id": "25pb_anxiety0"
+        }
+    },
+    {
+        "type": "pb_gad_two",
+        "submitter_id": "25pb_gad_two2",
+        "gad2feelnervscale": "Nearly every day",
+        "gad2notstopwryscale": "More than half the days",
+        "gad2totalscore": 5,
+        "pb_anxieties": {
+            "submitter_id": "25pb_anxiety0"
+        }
+    },
+    {
+        "type": "pb_gad_two",
+        "submitter_id": "25pb_gad_two3",
+        "gad2feelnervscale": "Nearly every day",
+        "gad2notstopwryscale": "More than half the days",
+        "gad2totalscore": 5,
+        "pb_anxieties": {
+            "submitter_id": "25pb_anxiety0"
+        }
+    }
+]

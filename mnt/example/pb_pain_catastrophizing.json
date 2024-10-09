@@ -1,0 +1,58 @@
+[
+    {
+        "type": "pb_pain_catastrophizing",
+        "submitter_id": "25pb_pain_catastrophizing0",
+        "pcqpainawfulovrwhlmscl": "all the time",
+        "pcqfeelcantwithstandscl": "to a great degree",
+        "pcqafraidpainworsescl": "to a moderate degree",
+        "pcqhurtscl": "to a great degree",
+        "pcqpainstopscl": "all the time",
+        "pcqseriousscl": "to a great degree",
+        "pcqtotalscoreval": 19,
+        "pb_pains": {
+            "submitter_id": "25pb_pain0"
+        }
+    },
+    {
+        "type": "pb_pain_catastrophizing",
+        "submitter_id": "25pb_pain_catastrophizing1",
+        "pcqpainawfulovrwhlmscl": "all the time",
+        "pcqfeelcantwithstandscl": "to a great degree",
+        "pcqafraidpainworsescl": "all the time",
+        "pcqhurtscl": "to a great degree",
+        "pcqpainstopscl": "all the time",
+        "pcqseriousscl": "to a great degree",
+        "pcqtotalscoreval": 21,
+        "pb_pains": {
+            "submitter_id": "25pb_pain0"
+        }
+    },
+    {
+        "type": "pb_pain_catastrophizing",
+        "submitter_id": "25pb_pain_catastrophizing2",
+        "pcqpainawfulovrwhlmscl": "to a great degree",
+        "pcqfeelcantwithstandscl": "all the time",
+        "pcqafraidpainworsescl": "all the time",
+        "pcqhurtscl": "to a great degree",
+        "pcqpainstopscl": "to a great degree",
+        "pcqseriousscl": "all the time",
+        "pcqtotalscoreval": 21,
+        "pb_pains": {
+            "submitter_id": "25pb_pain0"
+        }
+    },
+    {
+        "type": "pb_pain_catastrophizing",
+        "submitter_id": "25pb_pain_catastrophizing3",
+        "pcqpainawfulovrwhlmscl": "to a great degree",
+        "pcqfeelcantwithstandscl": "all the time",
+        "pcqafraidpainworsescl": "to a great degree",
+        "pcqhurtscl": "all the time",
+        "pcqpainstopscl": "to a great degree",
+        "pcqseriousscl": "all the time",
+        "pcqtotalscoreval": 21,
+        "pb_pains": {
+            "submitter_id": "25pb_pain0"
+        }
+    }
+]

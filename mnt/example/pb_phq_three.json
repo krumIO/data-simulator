@@ -1,0 +1,42 @@
+[
+    {
+        "type": "pb_phq_three",
+        "submitter_id": "25pb_phq_three0",
+        "phqlitintrstscore": "Nearly every day",
+        "phqdeprssnscore": "More than half the days",
+        "phqbttrddthghtscore": "Several days",
+        "pb_depressions": {
+            "submitter_id": "25pb_depression0"
+        }
+    },
+    {
+        "type": "pb_phq_three",
+        "submitter_id": "25pb_phq_three1",
+        "phqlitintrstscore": "Nearly every day",
+        "phqdeprssnscore": "More than half the days",
+        "phqbttrddthghtscore": "Nearly every day",
+        "pb_depressions": {
+            "submitter_id": "25pb_depression0"
+        }
+    },
+    {
+        "type": "pb_phq_three",
+        "submitter_id": "25pb_phq_three2",
+        "phqlitintrstscore": "Nearly every day",
+        "phqdeprssnscore": "More than half the days",
+        "phqbttrddthghtscore": "Nearly every day",
+        "pb_depressions": {
+            "submitter_id": "25pb_depression0"
+        }
+    },
+    {
+        "type": "pb_phq_three",
+        "submitter_id": "25pb_phq_three3",
+        "phqlitintrstscore": "Nearly every day",
+        "phqdeprssnscore": "More than half the days",
+        "phqbttrddthghtscore": "Nearly every day",
+        "pb_depressions": {
+            "submitter_id": "25pb_depression0"
+        }
+    }
+]

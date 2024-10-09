@@ -1,0 +1,58 @@
+[
+    {
+        "type": "pb_phq_nine",
+        "submitter_id": "25pb_phq_nine0",
+        "phqsleepimpairscore": "More than half the days",
+        "phqtirdlittleenrgyscore": "Nearly every day",
+        "phqabnrmldietscore": "More than half the days",
+        "phqflngfailrscore": "Nearly every day",
+        "phqconcntrtnimprmntscore": "Several days",
+        "phqmovmntspchimprmntscore": "More than half the days",
+        "phqtotalscore": 13,
+        "pb_depressions": {
+            "submitter_id": "25pb_depression0"
+        }
+    },
+    {
+        "type": "pb_phq_nine",
+        "submitter_id": "25pb_phq_nine1",
+        "phqsleepimpairscore": "Nearly every day",
+        "phqtirdlittleenrgyscore": "More than half the days",
+        "phqabnrmldietscore": "More than half the days",
+        "phqflngfailrscore": "More than half the days",
+        "phqconcntrtnimprmntscore": "Nearly every day",
+        "phqmovmntspchimprmntscore": "More than half the days",
+        "phqtotalscore": 14,
+        "pb_depressions": {
+            "submitter_id": "25pb_depression0"
+        }
+    },
+    {
+        "type": "pb_phq_nine",
+        "submitter_id": "25pb_phq_nine2",
+        "phqsleepimpairscore": "More than half the days",
+        "phqtirdlittleenrgyscore": "Nearly every day",
+        "phqabnrmldietscore": "More than half the days",
+        "phqflngfailrscore": "Nearly every day",
+        "phqconcntrtnimprmntscore": "More than half the days",
+        "phqmovmntspchimprmntscore": "Nearly every day",
+        "phqtotalscore": 15,
+        "pb_depressions": {
+            "submitter_id": "25pb_depression0"
+        }
+    },
+    {
+        "type": "pb_phq_nine",
+        "submitter_id": "25pb_phq_nine3",
+        "phqsleepimpairscore": "More than half the days",
+        "phqtirdlittleenrgyscore": "Nearly every day",
+        "phqabnrmldietscore": "More than half the days",
+        "phqflngfailrscore": "More than half the days",
+        "phqconcntrtnimprmntscore": "Several days",
+        "phqmovmntspchimprmntscore": "More than half the days",
+        "phqtotalscore": 21,
+        "pb_depressions": {
+            "submitter_id": "25pb_depression0"
+        }
+    }
+]

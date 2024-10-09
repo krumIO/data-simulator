@@ -1,0 +1,34 @@
+[
+    {
+        "type": "pb_pain_intensity",
+        "submitter_id": "25pb_pain_intensity0",
+        "promisavgpainrtngpst7dscl": "9",
+        "pb_pains": {
+            "submitter_id": "25pb_pain0"
+        }
+    },
+    {
+        "type": "pb_pain_intensity",
+        "submitter_id": "25pb_pain_intensity1",
+        "promisavgpainrtngpst7dscl": "9",
+        "pb_pains": {
+            "submitter_id": "25pb_pain0"
+        }
+    },
+    {
+        "type": "pb_pain_intensity",
+        "submitter_id": "25pb_pain_intensity2",
+        "promisavgpainrtngpst7dscl": "9",
+        "pb_pains": {
+            "submitter_id": "25pb_pain0"
+        }
+    },
+    {
+        "type": "pb_pain_intensity",
+        "submitter_id": "25pb_pain_intensity3",
+        "promisavgpainrtngpst7dscl": "10 = Worst possible pain",
+        "pb_pains": {
+            "submitter_id": "25pb_pain0"
+        }
+    }
+]

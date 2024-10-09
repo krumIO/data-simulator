@@ -1,0 +1,82 @@
+[
+    {
+        "type": "pb_bpi",
+        "submitter_id": "25pb_bpi0",
+        "bpipainothrevrdykdindcode": "1",
+        "bpiwrstpnlast24hrtngscl": "9",
+        "bpileastpnlst24hrtngscl": "8",
+        "bpiavgpainrtngscl": "7",
+        "bpicurrentpainrtngscl": "6",
+        "bpipaintreatmntrelfscl": "50 %",
+        "bpipainintfrgnrlactvtyscl": "9",
+        "bpipainintfrmoodscl": "8",
+        "bpipainintfrwlkablscl": "7",
+        "bpipainnrmlwrkintrfrscl": "6",
+        "bpipainrelationsintrfrscl": "8",
+        "bpipainsleepintrfrscl": "9",
+        "bpipainenjoymntintrfrscl": "8",
+        "pb_pains": {
+            "submitter_id": "25pb_pain0"
+        }
+    },
+    {
+        "type": "pb_bpi",
+        "submitter_id": "25pb_bpi1",
+        "bpipainothrevrdykdindcode": "1",
+        "bpiwrstpnlast24hrtngscl": "10 = Pain as bad as you can imagine",
+        "bpileastpnlst24hrtngscl": "9",
+        "bpiavgpainrtngscl": "8",
+        "bpicurrentpainrtngscl": "7",
+        "bpipaintreatmntrelfscl": "90 %",
+        "bpipainintfrgnrlactvtyscl": "10 = completely interferes",
+        "bpipainintfrmoodscl": "9",
+        "bpipainintfrwlkablscl": "8",
+        "bpipainnrmlwrkintrfrscl": "7",
+        "bpipainrelationsintrfrscl": "7",
+        "bpipainsleepintrfrscl": "9",
+        "bpipainenjoymntintrfrscl": "10 = completely interferes",
+        "pb_pains": {
+            "submitter_id": "25pb_pain0"
+        }
+    },
+    {
+        "type": "pb_bpi",
+        "submitter_id": "25pb_bpi2",
+        "bpipainothrevrdykdindcode": "1",
+        "bpiwrstpnlast24hrtngscl": "8",
+        "bpileastpnlst24hrtngscl": "9",
+        "bpiavgpainrtngscl": "10 = Pain as bad as you can imagine",
+        "bpicurrentpainrtngscl": "8",
+        "bpipaintreatmntrelfscl": "30 %",
+        "bpipainintfrgnrlactvtyscl": "10 = completely interferes",
+        "bpipainintfrmoodscl": "9",
+        "bpipainintfrwlkablscl": "8",
+        "bpipainnrmlwrkintrfrscl": "7",
+        "bpipainrelationsintrfrscl": "8",
+        "bpipainsleepintrfrscl": "9",
+        "bpipainenjoymntintrfrscl": "10 = completely interferes",
+        "pb_pains": {
+            "submitter_id": "25pb_pain0"
+        }
+    },
+    {
+        "type": "pb_bpi",
+        "submitter_id": "25pb_bpi3",
+        "bpipainothrevrdykdindcode": "1",
+        "bpiwrstpnlast24hrtngscl": "9",
+        "bpileastpnlst24hrtngscl": "9",
+        "bpiavgpainrtngscl": "8",
+        "bpicurrentpainrtngscl": "9",
+        "bpipaintreatmntrelfscl": "40 %",
+        "bpipainintfrgnrlactvtyscl": "8",
+        "bpipainintfrmoodscl": "9",
+        "bpipainintfrwlkablscl": "9",
+        "bpipainnrmlwrkintrfrscl": "8",
+        "bpipainrelationsintrfrscl": "7",
+        "bpipainsleepintrfrscl": "9",
+        "bpipainenjoymntintrfrscl": "9",
+        "pb_pains": {
+            "submitter_id": "25pb_pain0"
+        }
+    }
+]

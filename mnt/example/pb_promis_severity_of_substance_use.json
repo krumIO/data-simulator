@@ -1,0 +1,52 @@
+[
+    {
+        "type": "pb_promis_severity_of_substance_use",
+        "submitter_id": "25pb_promis_severity_of_substance_use0",
+        "ssu7auseddrugs": "1",
+        "ssu7aoutofcontrol": "Somewhat",
+        "ssu7aoverpowering": "Sometimes",
+        "ssu7adrugthought": "Often",
+        "ssu7acauseproblem": "Almost always",
+        "ssu7adrugproblem": "Very much",
+        "ssu7acrave": "Often",
+        "ssu7atimeusing": "Often",
+        "ssu7atotalscore": 25,
+        "pb_substance_uses": {
+            "submitter_id": "25pb_substance_use0"
+        }
+    },
+    {
+        "type": "pb_promis_severity_of_substance_use",
+        "submitter_id": "25pb_promis_severity_of_substance_use1",
+        "ssu7auseddrugs": "0",
+        "ssu7atotalscore": 0,
+        "pb_substance_uses": {
+            "submitter_id": "25pb_substance_use0"
+        }
+    },
+    {
+        "type": "pb_promis_severity_of_substance_use",
+        "submitter_id": "25pb_promis_severity_of_substance_use2",
+        "ssu7auseddrugs": "1",
+        "ssu7aoutofcontrol": "Quite a bit",
+        "ssu7aoverpowering": "Sometimes",
+        "ssu7adrugthought": "Often",
+        "ssu7acauseproblem": "Sometimes",
+        "ssu7adrugproblem": "Somewhat",
+        "ssu7acrave": "Almost always",
+        "ssu7atimeusing": "Almost always",
+        "ssu7atotalscore": 23,
+        "pb_substance_uses": {
+            "submitter_id": "25pb_substance_use0"
+        }
+    },
+    {
+        "type": "pb_promis_severity_of_substance_use",
+        "submitter_id": "25pb_promis_severity_of_substance_use3",
+        "ssu7auseddrugs": "0",
+        "ssu7atotalscore": 0,
+        "pb_substance_uses": {
+            "submitter_id": "25pb_substance_use0"
+        }
+    }
+]

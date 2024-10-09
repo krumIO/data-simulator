@@ -1,0 +1,18 @@
+[
+    {
+        "type": "study",
+        "submitter_id": "25study0",
+        "projects": {
+            "code": "me"
+        },
+        "imp_jh_pop": 1,
+        "imp_jh_inter": 1,
+        "imp_jh_sd": 1,
+        "imp_jh_if": 1,
+        "imp_jh_econ": 1,
+        "imp_jh_moud": 1,
+        "imp_jh_setting": 1,
+        "imp_jh_sample": 1,
+        "imp_jh_followup": 1
+    }
+]

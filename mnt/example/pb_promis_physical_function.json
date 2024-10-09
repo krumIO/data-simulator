@@ -1,0 +1,58 @@
+[
+    {
+        "type": "pb_promis_physical_function",
+        "submitter_id": "25pb_promis_physical_function0",
+        "promisphysfuncchrsablscl": "With much difficulty",
+        "promisphfncstrsnrmpcabscl": "Unable to do",
+        "promisphysfunc15mnwlkscl": "With some difficulty",
+        "promisphyfncerndshpablscl": "With a little difficulty",
+        "promisphysfunc2hrlbrscl": "Quite a lot",
+        "promisphysfunchswrkscl": "Somewhat",
+        "promisphysfx6totalscore": 15,
+        "pb_physical_functions": {
+            "submitter_id": "25pb_physical_function0"
+        }
+    },
+    {
+        "type": "pb_promis_physical_function",
+        "submitter_id": "25pb_promis_physical_function1",
+        "promisphysfuncchrsablscl": "Unable to do",
+        "promisphfncstrsnrmpcabscl": "With much difficulty",
+        "promisphysfunc15mnwlkscl": "With some difficulty",
+        "promisphyfncerndshpablscl": "With much difficulty",
+        "promisphysfunc2hrlbrscl": "Cannot do",
+        "promisphysfunchswrkscl": "Quite a lot",
+        "promisphysfx6totalscore": 11,
+        "pb_physical_functions": {
+            "submitter_id": "25pb_physical_function0"
+        }
+    },
+    {
+        "type": "pb_promis_physical_function",
+        "submitter_id": "25pb_promis_physical_function2",
+        "promisphysfuncchrsablscl": "Unable to do",
+        "promisphfncstrsnrmpcabscl": "With much difficulty",
+        "promisphysfunc15mnwlkscl": "Unable to do",
+        "promisphyfncerndshpablscl": "With much difficulty",
+        "promisphysfunc2hrlbrscl": "Quite a lot",
+        "promisphysfunchswrkscl": "Quite a lot",
+        "promisphysfx6totalscore": 10,
+        "pb_physical_functions": {
+            "submitter_id": "25pb_physical_function0"
+        }
+    },
+    {
+        "type": "pb_promis_physical_function",
+        "submitter_id": "25pb_promis_physical_function3",
+        "promisphysfuncchrsablscl": "With much difficulty",
+        "promisphfncstrsnrmpcabscl": "Unable to do",
+        "promisphysfunc15mnwlkscl": "With much difficulty",
+        "promisphyfncerndshpablscl": "Unable to do",
+        "promisphysfunc2hrlbrscl": "Quite a lot",
+        "promisphysfunchswrkscl": "Cannot do",
+        "promisphysfx6totalscore": 9,
+        "pb_physical_functions": {
+            "submitter_id": "25pb_physical_function0"
+        }
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "type": "pb_recovery_capital",
+        "submitter_id": "25pb_recovery_capital0",
+        "barc10_1": "Strongly Agree",
+        "barc10_2": "Agree",
+        "barc10_3": "Somewhat Agree",
+        "barc10_4": "Somewhat Disagree",
+        "barc10_5": "Disagree",
+        "barc10_6": "Agree",
+        "barc10_7": "Somewhat Disagree",
+        "barc10_8": "Strongly Agree",
+        "barc10_9": "Agree",
+        "barc10_10": "Somewhat Agree",
+        "barc10_total": 43,
+        "pb_overall_functions": {
+            "submitter_id": "25pb_overall_function0"
+        }
+    },
+    {
+        "type": "pb_recovery_capital",
+        "submitter_id": "25pb_recovery_capital1",
+        "barc10_1": "Strongly Agree",
+        "barc10_2": "Agree",
+        "barc10_3": "Agree",
+        "barc10_4": "Agree",
+        "barc10_5": "Strongly Agree",
+        "barc10_6": "Agree",
+        "barc10_7": "Strongly Agree",
+        "barc10_8": "Agree",
+        "barc10_9": "Strongly Agree",
+        "barc10_10": "Agree",
+        "barc10_total": 54,
+        "pb_overall_functions": {
+            "submitter_id": "25pb_overall_function0"
+        }
+    },
+    {
+        "type": "pb_recovery_capital",
+        "submitter_id": "25pb_recovery_capital2",
+        "barc10_1": "Strongly Agree",
+        "barc10_2": "Disagree",
+        "barc10_3": "Strongly Disagree",
+        "barc10_4": "Strongly Disagree",
+        "barc10_5": "Disagree",
+        "barc10_6": "Strongly Disagree",
+        "barc10_7": "Disagree",
+        "barc10_8": "Agree",
+        "barc10_9": "Agree",
+        "barc10_10": "Disagree",
+        "barc10_total": 27,
+        "pb_overall_functions": {
+            "submitter_id": "25pb_overall_function0"
+        }
+    },
+    {
+        "type": "pb_recovery_capital",
+        "submitter_id": "25pb_recovery_capital3",
+        "barc10_1": "Agree",
+        "barc10_2": "Agree",
+        "barc10_3": "Somewhat Disagree",
+        "barc10_4": "Somewhat Disagree",
+        "barc10_5": "Disagree",
+        "barc10_6": "Disagree",
+        "barc10_7": "Strongly Disagree",
+        "barc10_8": "Strongly Disagree",
+        "barc10_9": "Somewhat Agree",
+        "barc10_10": "Somewhat Agree",
+        "barc10_total": 30,
+        "pb_overall_functions": {
+            "submitter_id": "25pb_overall_function0"
+        }
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "type": "pb_audit_c",
+        "submitter_id": "25pb_audit_c0",
+        "audit_usc1": "4-6 times/week",
+        "audit_usc2": "5-6 drinks",
+        "audit_usc3": "Weekly",
+        "audit_usc_total": 12,
+        "pb_substance_uses": {
+            "submitter_id": "25pb_substance_use0"
+        }
+    },
+    {
+        "type": "pb_audit_c",
+        "submitter_id": "25pb_audit_c1",
+        "audit_usc1": "Weekly",
+        "audit_usc2": "3 drinks",
+        "audit_usc3": "Less than monthly",
+        "audit_usc_total": 6,
+        "pb_substance_uses": {
+            "submitter_id": "25pb_substance_use0"
+        }
+    },
+    {
+        "type": "pb_audit_c",
+        "submitter_id": "25pb_audit_c2",
+        "audit_usc1": "2-3 times/week",
+        "audit_usc2": "4 drinks",
+        "audit_usc3": "Weekly",
+        "audit_usc_total": 10,
+        "pb_substance_uses": {
+            "submitter_id": "25pb_substance_use0"
+        }
+    },
+    {
+        "type": "pb_audit_c",
+        "submitter_id": "25pb_audit_c3",
+        "audit_usc1": "Weekly",
+        "audit_usc2": "3 drinks",
+        "audit_usc3": "Monthly",
+        "audit_usc_total": 7,
+        "pb_substance_uses": {
+            "submitter_id": "25pb_substance_use0"
+        }
+    }
+]

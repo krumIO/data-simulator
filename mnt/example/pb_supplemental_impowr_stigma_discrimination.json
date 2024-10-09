@@ -1,0 +1,62 @@
+[
+    {
+        "type": "pb_supplemental_impowr_stigma_discrimination",
+        "submitter_id": "25pb_supplemental_impowr_stigma_discrimination0",
+        "stigpoorcharacter": "Very often",
+        "stigshouldashamed": "Often",
+        "stigdeserve": "Sometimes",
+        "stiguntrustworthy": "Sometimes",
+        "stiginferior": "Often",
+        "stigoutofplace": "Very often",
+        "stigscreweduplife": "Often",
+        "stigfeelashamed": "Very often",
+        "pb_stigma_discriminations": {
+            "submitter_id": "25pb_stigma_discrimination0"
+        }
+    },
+    {
+        "type": "pb_supplemental_impowr_stigma_discrimination",
+        "submitter_id": "25pb_supplemental_impowr_stigma_discrimination1",
+        "stigpoorcharacter": "Very often",
+        "stigshouldashamed": "Often",
+        "stigdeserve": "Sometimes",
+        "stiguntrustworthy": "Often",
+        "stiginferior": "Very often",
+        "stigoutofplace": "Often",
+        "stigscreweduplife": "Sometimes",
+        "stigfeelashamed": "Often",
+        "pb_stigma_discriminations": {
+            "submitter_id": "25pb_stigma_discrimination0"
+        }
+    },
+    {
+        "type": "pb_supplemental_impowr_stigma_discrimination",
+        "submitter_id": "25pb_supplemental_impowr_stigma_discrimination2",
+        "stigpoorcharacter": "Very often",
+        "stigshouldashamed": "Often",
+        "stigdeserve": "Very often",
+        "stiguntrustworthy": "Often",
+        "stiginferior": "Often",
+        "stigoutofplace": "Often",
+        "stigscreweduplife": "Very often",
+        "stigfeelashamed": "Often",
+        "pb_stigma_discriminations": {
+            "submitter_id": "25pb_stigma_discrimination0"
+        }
+    },
+    {
+        "type": "pb_supplemental_impowr_stigma_discrimination",
+        "submitter_id": "25pb_supplemental_impowr_stigma_discrimination3",
+        "stigpoorcharacter": "Often",
+        "stigshouldashamed": "Very often",
+        "stigdeserve": "Often",
+        "stiguntrustworthy": "Very often",
+        "stiginferior": "Often",
+        "stigoutofplace": "Very often",
+        "stigscreweduplife": "Often",
+        "stigfeelashamed": "Very often",
+        "pb_stigma_discriminations": {
+            "submitter_id": "25pb_stigma_discrimination0"
+        }
+    }
+]

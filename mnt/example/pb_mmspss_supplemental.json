@@ -1,0 +1,94 @@
+[
+    {
+        "type": "pb_mmspss_supplemental",
+        "submitter_id": "25pb_mmspss_supplemental0",
+        "mspssspecpersonscl": "Strongly Disagree",
+        "mspssspecjoysorrowscl": "Very Strongly Disagree",
+        "mspssfamilyhelpsscl": "Mildly Agree",
+        "mspssfamemotsuptscl": "Neutral",
+        "mspssspeccomfortscl": "Mildly Disagree",
+        "mspssfriendhelpscl": "Strongly Disagree",
+        "mspssfriendcountscl": "Mildly Agree",
+        "mspssfamtalkprobscl": "Neutral",
+        "mspssfriendjoysorscl": "Strongly Disagree",
+        "mspssspeccarefeelscl": "Mildly Agree",
+        "mspssfamdecisionscl": "Mildly Agree",
+        "mspssfriendtalkprobscl": "Neutral",
+        "mspsssigothsubscl": 2.75,
+        "mspssfamilysubscl": 4.5,
+        "mspssfriendssubscl": 3.25,
+        "mspsstotalscore": 3.5,
+        "pb_socials": {
+            "submitter_id": "25pb_social0"
+        }
+    },
+    {
+        "type": "pb_mmspss_supplemental",
+        "submitter_id": "25pb_mmspss_supplemental1",
+        "mspssspecpersonscl": "Very Strongly Disagree",
+        "mspssspecjoysorrowscl": "Strongly Disagree",
+        "mspssfamilyhelpsscl": "Mildly Agree",
+        "mspssfamemotsuptscl": "Neutral",
+        "mspssspeccomfortscl": "Mildly Disagree",
+        "mspssfriendhelpscl": "Strongly Disagree",
+        "mspssfriendcountscl": "Very Strongly Disagree",
+        "mspssfamtalkprobscl": "Strongly Disagree",
+        "mspssfriendjoysorscl": "Mildly Disagree",
+        "mspssspeccarefeelscl": "Strongly Disagree",
+        "mspssfamdecisionscl": "Very Strongly Disagree",
+        "mspssfriendtalkprobscl": "Strongly Disagree",
+        "mspsssigothsubscl": 2,
+        "mspssfamilysubscl": 3,
+        "mspssfriendssubscl": 2,
+        "mspsstotalscore": 2.3333333333333335,
+        "pb_socials": {
+            "submitter_id": "25pb_social0"
+        }
+    },
+    {
+        "type": "pb_mmspss_supplemental",
+        "submitter_id": "25pb_mmspss_supplemental2",
+        "mspssspecpersonscl": "Mildly Agree",
+        "mspssspecjoysorrowscl": "Neutral",
+        "mspssfamilyhelpsscl": "Neutral",
+        "mspssfamemotsuptscl": "Mildly Agree",
+        "mspssspeccomfortscl": "Mildly Disagree",
+        "mspssfriendhelpscl": "Neutral",
+        "mspssfriendcountscl": "Mildly Agree",
+        "mspssfamtalkprobscl": "Mildly Disagree",
+        "mspssfriendjoysorscl": "Neutral",
+        "mspssspeccarefeelscl": "Mildly Agree",
+        "mspssfamdecisionscl": "Mildly Disagree",
+        "mspssfriendtalkprobscl": "Mildly Agree",
+        "mspsssigothsubscl": 4.25,
+        "mspssfamilysubscl": 3.75,
+        "mspssfriendssubscl": 4.5,
+        "mspsstotalscore": 4.166666666666667,
+        "pb_socials": {
+            "submitter_id": "25pb_social0"
+        }
+    },
+    {
+        "type": "pb_mmspss_supplemental",
+        "submitter_id": "25pb_mmspss_supplemental3",
+        "mspssspecpersonscl": "Strongly Disagree",
+        "mspssspecjoysorrowscl": "Very Strongly Disagree",
+        "mspssfamilyhelpsscl": "Neutral",
+        "mspssfamemotsuptscl": "Strongly Disagree",
+        "mspssspeccomfortscl": "Mildly Disagree",
+        "mspssfriendhelpscl": "Mildly Disagree",
+        "mspssfriendcountscl": "Neutral",
+        "mspssfamtalkprobscl": "Mildly Disagree",
+        "mspssfriendjoysorscl": "Mildly Agree",
+        "mspssspeccarefeelscl": "Mildly Disagree",
+        "mspssfamdecisionscl": "Neutral",
+        "mspssfriendtalkprobscl": "Strongly Disagree",
+        "mspsssigothsubscl": 2.25,
+        "mspssfamilysubscl": 3.25,
+        "mspssfriendssubscl": 3.5,
+        "mspsstotalscore": 3,
+        "pb_socials": {
+            "submitter_id": "25pb_social0"
+        }
+    }
+]

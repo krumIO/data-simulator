@@ -1,0 +1,50 @@
+[
+    {
+        "type": "pb_chronic_pain_screening",
+        "submitter_id": "25pb_chronic_pain_screening0",
+        "cp_screen_1": "Everyday",
+        "cp_screen_2": "Some days",
+        "painyears": "5",
+        "painmonths": "2",
+        "paindur": 62,
+        "pb_pains": {
+            "submitter_id": "25pb_pain0"
+        }
+    },
+    {
+        "type": "pb_chronic_pain_screening",
+        "submitter_id": "25pb_chronic_pain_screening1",
+        "cp_screen_1": "Most days",
+        "cp_screen_2": "Some days",
+        "painyears": "4",
+        "painmonths": "2",
+        "paindur": 50,
+        "pb_pains": {
+            "submitter_id": "25pb_pain0"
+        }
+    },
+    {
+        "type": "pb_chronic_pain_screening",
+        "submitter_id": "25pb_chronic_pain_screening2",
+        "cp_screen_1": "Most days",
+        "cp_screen_2": "Everyday",
+        "painyears": "4",
+        "painmonths": "3",
+        "paindur": 51,
+        "pb_pains": {
+            "submitter_id": "25pb_pain0"
+        }
+    },
+    {
+        "type": "pb_chronic_pain_screening",
+        "submitter_id": "25pb_chronic_pain_screening3",
+        "cp_screen_1": "Most days",
+        "cp_screen_2": "Some days",
+        "painyears": "4",
+        "painmonths": "3",
+        "paindur": 51,
+        "pb_pains": {
+            "submitter_id": "25pb_pain0"
+        }
+    }
+]

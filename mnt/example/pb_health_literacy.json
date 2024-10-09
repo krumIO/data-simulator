@@ -1,0 +1,34 @@
+[
+    {
+        "type": "pb_health_literacy",
+        "submitter_id": "25pb_health_literacy0",
+        "hlthlitforms": "Most of the time",
+        "pb_health_economics": {
+            "submitter_id": "25pb_health_economics0"
+        }
+    },
+    {
+        "type": "pb_health_literacy",
+        "submitter_id": "25pb_health_literacy1",
+        "hlthlitforms": "Most of the time",
+        "pb_health_economics": {
+            "submitter_id": "25pb_health_economics0"
+        }
+    },
+    {
+        "type": "pb_health_literacy",
+        "submitter_id": "25pb_health_literacy2",
+        "hlthlitforms": "Most of the time",
+        "pb_health_economics": {
+            "submitter_id": "25pb_health_economics0"
+        }
+    },
+    {
+        "type": "pb_health_literacy",
+        "submitter_id": "25pb_health_literacy3",
+        "hlthlitforms": "All of the time",
+        "pb_health_economics": {
+            "submitter_id": "25pb_health_economics0"
+        }
+    }
+]

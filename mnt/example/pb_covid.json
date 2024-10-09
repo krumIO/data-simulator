@@ -1,0 +1,9 @@
+[
+    {
+        "type": "pb_covid",
+        "submitter_id": "25pb_covid0",
+        "patient_baselines": {
+            "submitter_id": "25patient_baseline0"
+        }
+    }
+]

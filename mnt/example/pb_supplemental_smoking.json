@@ -1,0 +1,77 @@
+[
+    {
+        "type": "pb_supplemental_smoking",
+        "submitter_id": "25pb_supplemental_smoking0",
+        "su_smoke100": "Yes",
+        "su_cigflavor": "Yes",
+        "su_cigar": "Yes",
+        "su_blunt": "Yes",
+        "su_electronic": "11 to 20 times",
+        "su_vapemonday": "4",
+        "su_vapetuesday": "3",
+        "su_vapewednesday": "3",
+        "su_vapethursday": "2",
+        "su_vapefriday": "5",
+        "su_vapesaturday": "7",
+        "su_vapesunday": "7",
+        "pb_substance_uses": {
+            "submitter_id": "25pb_substance_use0"
+        }
+    },
+    {
+        "type": "pb_supplemental_smoking",
+        "submitter_id": "25pb_supplemental_smoking1",
+        "su_smoke100": "No",
+        "su_cigar": "No",
+        "su_blunt": "No",
+        "su_electronic": "Refused",
+        "su_vapemonday": "0",
+        "su_vapetuesday": "0",
+        "su_vapewednesday": "0",
+        "su_vapethursday": "0",
+        "su_vapefriday": "0",
+        "su_vapesaturday": "0",
+        "su_vapesunday": "0",
+        "pb_substance_uses": {
+            "submitter_id": "25pb_substance_use0"
+        }
+    },
+    {
+        "type": "pb_supplemental_smoking",
+        "submitter_id": "25pb_supplemental_smoking2",
+        "su_smoke100": "Yes",
+        "su_cigflavor": "Yes",
+        "su_cigar": "Yes",
+        "su_blunt": "Yes",
+        "su_electronic": "One time, even just a few puffs",
+        "su_vapemonday": "10",
+        "su_vapetuesday": "15",
+        "su_vapewednesday": "12",
+        "su_vapethursday": "13",
+        "su_vapefriday": "10",
+        "su_vapesaturday": "20",
+        "su_vapesunday": "15",
+        "pb_substance_uses": {
+            "submitter_id": "25pb_substance_use0"
+        }
+    },
+    {
+        "type": "pb_supplemental_smoking",
+        "submitter_id": "25pb_supplemental_smoking3",
+        "su_smoke100": "Yes",
+        "su_cigflavor": "No",
+        "su_cigar": "No",
+        "su_blunt": "No",
+        "su_electronic": "21 to 50 times",
+        "su_vapemonday": "3",
+        "su_vapetuesday": "3",
+        "su_vapewednesday": "2",
+        "su_vapethursday": "0",
+        "su_vapefriday": "4",
+        "su_vapesaturday": "7",
+        "su_vapesunday": "0",
+        "pb_substance_uses": {
+            "submitter_id": "25pb_substance_use0"
+        }
+    }
+]

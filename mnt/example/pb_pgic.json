@@ -1,0 +1,34 @@
+[
+    {
+        "type": "pb_pgic",
+        "submitter_id": "25pb_pgic0",
+        "pgicsymptomchangestatval": "Much worse",
+        "pb_pains": {
+            "submitter_id": "25pb_pain0"
+        }
+    },
+    {
+        "type": "pb_pgic",
+        "submitter_id": "25pb_pgic1",
+        "pgicsymptomchangestatval": "Much worse",
+        "pb_pains": {
+            "submitter_id": "25pb_pain0"
+        }
+    },
+    {
+        "type": "pb_pgic",
+        "submitter_id": "25pb_pgic2",
+        "pgicsymptomchangestatval": "Much worse",
+        "pb_pains": {
+            "submitter_id": "25pb_pain0"
+        }
+    },
+    {
+        "type": "pb_pgic",
+        "submitter_id": "25pb_pgic3",
+        "pgicsymptomchangestatval": "Much improved",
+        "pb_pains": {
+            "submitter_id": "25pb_pain0"
+        }
+    }
+]

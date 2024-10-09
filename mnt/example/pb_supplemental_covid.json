@@ -1,0 +1,50 @@
+[
+    {
+        "type": "pb_supplemental_covid",
+        "submitter_id": "25pb_supplemental_covid0",
+        "covid19hlthaccessscl": "Reduced my ability to get healthcare A LITTLE",
+        "covid19socsupptscl": "A LITTLE LESS social support",
+        "covid19financescl": "Made finances A LITTLE  WORSE",
+        "covid19meetbasicneedscl": "Reduced my ability to meet my basic needs A LITTLE",
+        "covid19mentalhlthscl": "My mental and emotional health is A LOT WORSE",
+        "pb_covids": {
+            "submitter_id": "25pb_covid0"
+        }
+    },
+    {
+        "type": "pb_supplemental_covid",
+        "submitter_id": "25pb_supplemental_covid1",
+        "covid19hlthaccessscl": "NOT AFFECTED my ability to get healthcare",
+        "covid19socsupptscl": "Social support was NOT AFFECTED",
+        "covid19financescl": "NOT AFFECTED my finances",
+        "covid19meetbasicneedscl": "NOT AFFECTED my ability to meet my basic needs",
+        "covid19mentalhlthscl": "NOT AFFECTED my mental and emotional health",
+        "pb_covids": {
+            "submitter_id": "25pb_covid0"
+        }
+    },
+    {
+        "type": "pb_supplemental_covid",
+        "submitter_id": "25pb_supplemental_covid2",
+        "covid19hlthaccessscl": "Reduced my ability to get healthcare A LITTLE",
+        "covid19socsupptscl": "A LITTLE LESS social support",
+        "covid19financescl": "Made finances A LITTLE  WORSE",
+        "covid19meetbasicneedscl": "Reduced my ability to meet my basic needs A LITTLE",
+        "covid19mentalhlthscl": "My mental and emotional health is A LOT WORSE",
+        "pb_covids": {
+            "submitter_id": "25pb_covid0"
+        }
+    },
+    {
+        "type": "pb_supplemental_covid",
+        "submitter_id": "25pb_supplemental_covid3",
+        "covid19hlthaccessscl": "Reduce my ability to get healthcare A LOT",
+        "covid19socsupptscl": "A LOT less social support",
+        "covid19financescl": "Made finances A LOT WORSE",
+        "covid19meetbasicneedscl": "Reduced my ability to meet my basic needs A LOT",
+        "covid19mentalhlthscl": "My mental and emotional health is A LOT WORSE",
+        "pb_covids": {
+            "submitter_id": "25pb_covid0"
+        }
+    }
+]

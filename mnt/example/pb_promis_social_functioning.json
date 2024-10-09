@@ -1,0 +1,50 @@
+[
+    {
+        "type": "pb_promis_social_functioning",
+        "submitter_id": "25pb_promis_social_functioning0",
+        "promistrblleisactothscl": "Always",
+        "promistrblfmlyactscl": "Usually",
+        "promistrblusualwrkscl": "Always",
+        "promistrblfriendactvscl": "Always",
+        "promispsra4atotalscore": 5,
+        "pb_socials": {
+            "submitter_id": "25pb_social0"
+        }
+    },
+    {
+        "type": "pb_promis_social_functioning",
+        "submitter_id": "25pb_promis_social_functioning1",
+        "promistrblleisactothscl": "Always",
+        "promistrblfmlyactscl": "Usually",
+        "promistrblusualwrkscl": "Sometimes",
+        "promistrblfriendactvscl": "Usually",
+        "promispsra4atotalscore": 8,
+        "pb_socials": {
+            "submitter_id": "25pb_social0"
+        }
+    },
+    {
+        "type": "pb_promis_social_functioning",
+        "submitter_id": "25pb_promis_social_functioning2",
+        "promistrblleisactothscl": "Always",
+        "promistrblfmlyactscl": "Usually",
+        "promistrblusualwrkscl": "Sometimes",
+        "promistrblfriendactvscl": "Usually",
+        "promispsra4atotalscore": 8,
+        "pb_socials": {
+            "submitter_id": "25pb_social0"
+        }
+    },
+    {
+        "type": "pb_promis_social_functioning",
+        "submitter_id": "25pb_promis_social_functioning3",
+        "promistrblleisactothscl": "Always",
+        "promistrblfmlyactscl": "Usually",
+        "promistrblusualwrkscl": "Always",
+        "promistrblfriendactvscl": "Always",
+        "promispsra4atotalscore": 5,
+        "pb_socials": {
+            "submitter_id": "25pb_social0"
+        }
+    }
+]

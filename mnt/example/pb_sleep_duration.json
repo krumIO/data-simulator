@@ -1,0 +1,42 @@
+[
+    {
+        "type": "pb_sleep_duration",
+        "submitter_id": "25pb_sleep_duration0",
+        "sleep_duration_hours": "6",
+        "sleep_duration_minutes": "30",
+        "sleepnighthourmindur": 390,
+        "pb_sleep_fatigues": {
+            "submitter_id": "25pb_sleep_fatigue0"
+        }
+    },
+    {
+        "type": "pb_sleep_duration",
+        "submitter_id": "25pb_sleep_duration1",
+        "sleep_duration_hours": "4",
+        "sleep_duration_minutes": "30",
+        "sleepnighthourmindur": 270,
+        "pb_sleep_fatigues": {
+            "submitter_id": "25pb_sleep_fatigue0"
+        }
+    },
+    {
+        "type": "pb_sleep_duration",
+        "submitter_id": "25pb_sleep_duration2",
+        "sleep_duration_hours": "3",
+        "sleep_duration_minutes": "0",
+        "sleepnighthourmindur": 180,
+        "pb_sleep_fatigues": {
+            "submitter_id": "25pb_sleep_fatigue0"
+        }
+    },
+    {
+        "type": "pb_sleep_duration",
+        "submitter_id": "25pb_sleep_duration3",
+        "sleep_duration_hours": "4",
+        "sleep_duration_minutes": "30",
+        "sleepnighthourmindur": 270,
+        "pb_sleep_fatigues": {
+            "submitter_id": "25pb_sleep_fatigue0"
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "type": "impowr_followup_dates",
+        "submitter_id": "25impowr_followup_dates0",
+        "imp_followup_age": 23.83348049583496,
+        "imp_followup_relativedate": 91,
+        "patients": {
+            "submitter_id": "25patient0"
+        }
+    },
+    {
+        "type": "impowr_followup_dates",
+        "submitter_id": "25impowr_followup_dates1",
+        "imp_followup_age": 24.000492823261258,
+        "imp_followup_relativedate": 152,
+        "patients": {
+            "submitter_id": "25patient0"
+        }
+    },
+    {
+        "type": "impowr_followup_dates",
+        "submitter_id": "25impowr_followup_dates2",
+        "imp_followup_age": 24.082630033470913,
+        "imp_followup_relativedate": 182,
+        "patients": {
+            "submitter_id": "25patient0"
+        }
+    },
+    {
+        "type": "impowr_followup_dates",
+        "submitter_id": "25impowr_followup_dates3",
+        "imp_followup_age": 24.167505150687557,
+        "imp_followup_relativedate": 213,
+        "patients": {
+            "submitter_id": "25patient0"
+        }
+    }
+]

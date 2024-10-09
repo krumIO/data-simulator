@@ -1,0 +1,50 @@
+[
+    {
+        "type": "pb_pain_interference",
+        "submitter_id": "25pb_pain_interference0",
+        "promispnintdlyactpst7dscl": "Very much",
+        "promispainintwkhmpst7dscl": "Quite a bit",
+        "promispnintprscacpst7dscl": "Somewhat",
+        "promispninthschrpst7dscl": "Quite a bit",
+        "promispainintf4atotalscore": 16,
+        "pb_pains": {
+            "submitter_id": "25pb_pain0"
+        }
+    },
+    {
+        "type": "pb_pain_interference",
+        "submitter_id": "25pb_pain_interference1",
+        "promispnintdlyactpst7dscl": "Very much",
+        "promispainintwkhmpst7dscl": "Quite a bit",
+        "promispnintprscacpst7dscl": "Quite a bit",
+        "promispninthschrpst7dscl": "Very much",
+        "promispainintf4atotalscore": 18,
+        "pb_pains": {
+            "submitter_id": "25pb_pain0"
+        }
+    },
+    {
+        "type": "pb_pain_interference",
+        "submitter_id": "25pb_pain_interference2",
+        "promispnintdlyactpst7dscl": "Very much",
+        "promispainintwkhmpst7dscl": "Quite a bit",
+        "promispnintprscacpst7dscl": "Very much",
+        "promispninthschrpst7dscl": "Quite a bit",
+        "promispainintf4atotalscore": 18,
+        "pb_pains": {
+            "submitter_id": "25pb_pain0"
+        }
+    },
+    {
+        "type": "pb_pain_interference",
+        "submitter_id": "25pb_pain_interference3",
+        "promispnintdlyactpst7dscl": "Very much",
+        "promispainintwkhmpst7dscl": "Quite a bit",
+        "promispnintprscacpst7dscl": "Very much",
+        "promispninthschrpst7dscl": "Quite a bit",
+        "promispainintf4atotalscore": 18,
+        "pb_pains": {
+            "submitter_id": "25pb_pain0"
+        }
+    }
+]

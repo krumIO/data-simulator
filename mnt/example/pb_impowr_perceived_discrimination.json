@@ -1,0 +1,46 @@
+[
+    {
+        "type": "pb_impowr_perceived_discrimination",
+        "submitter_id": "25pb_impowr_perceived_discrimination0",
+        "pds1": "Somewhat often",
+        "pds2": "Not very often",
+        "pds3": "Not Sure",
+        "pds4": "Very often",
+        "pb_stigma_discriminations": {
+            "submitter_id": "25pb_stigma_discrimination0"
+        }
+    },
+    {
+        "type": "pb_impowr_perceived_discrimination",
+        "submitter_id": "25pb_impowr_perceived_discrimination1",
+        "pds1": "Very often",
+        "pds2": "Somewhat often",
+        "pds3": "Somewhat often",
+        "pds4": "Very often",
+        "pb_stigma_discriminations": {
+            "submitter_id": "25pb_stigma_discrimination0"
+        }
+    },
+    {
+        "type": "pb_impowr_perceived_discrimination",
+        "submitter_id": "25pb_impowr_perceived_discrimination2",
+        "pds1": "Somewhat often",
+        "pds2": "Very often",
+        "pds3": "Very often",
+        "pds4": "Very often",
+        "pb_stigma_discriminations": {
+            "submitter_id": "25pb_stigma_discrimination0"
+        }
+    },
+    {
+        "type": "pb_impowr_perceived_discrimination",
+        "submitter_id": "25pb_impowr_perceived_discrimination3",
+        "pds1": "Very often",
+        "pds2": "Somewhat often",
+        "pds3": "Somewhat often",
+        "pds4": "Very often",
+        "pb_stigma_discriminations": {
+            "submitter_id": "25pb_stigma_discrimination0"
+        }
+    }
+]

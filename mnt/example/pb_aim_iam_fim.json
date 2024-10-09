@@ -1,0 +1,90 @@
+[
+    {
+        "type": "pb_aim_iam_fim",
+        "submitter_id": "25pb_aim_iam_fim0",
+        "aimapproval": "Completely Agree",
+        "aimappealing": "Agree",
+        "aimlike": "Agree",
+        "aimwelcome": "Agree",
+        "iamfitting": "Agree",
+        "iamsuitable": "Completely Agree",
+        "iamapplicable": "Neither agree nor disagree",
+        "iammatch": "Completely Agree",
+        "fimimplementable": "Completely Agree",
+        "fimplausible": "Agree",
+        "fimdoable": "Completely Agree",
+        "fimeasy": "Neither agree nor disagree",
+        "aimscore": 4.25,
+        "iamscore": 4.25,
+        "fimscore": 4.25,
+        "pb_implementation_sciences": {
+            "submitter_id": "25pb_implementation_science0"
+        }
+    },
+    {
+        "type": "pb_aim_iam_fim",
+        "submitter_id": "25pb_aim_iam_fim1",
+        "aimapproval": "Completely Agree",
+        "aimappealing": "Agree",
+        "aimlike": "Agree",
+        "aimwelcome": "Agree",
+        "iamfitting": "Completely Agree",
+        "iamsuitable": "Agree",
+        "iamapplicable": "Completely Agree",
+        "iammatch": "Agree",
+        "fimimplementable": "Completely Agree",
+        "fimplausible": "Agree",
+        "fimdoable": "Completely Agree",
+        "fimeasy": "Agree",
+        "aimscore": 4.25,
+        "iamscore": 4.5,
+        "fimscore": 4.5,
+        "pb_implementation_sciences": {
+            "submitter_id": "25pb_implementation_science0"
+        }
+    },
+    {
+        "type": "pb_aim_iam_fim",
+        "submitter_id": "25pb_aim_iam_fim2",
+        "aimapproval": "Completely Agree",
+        "aimappealing": "Agree",
+        "aimlike": "Agree",
+        "aimwelcome": "Completely Agree",
+        "iamfitting": "Completely Agree",
+        "iamsuitable": "Agree",
+        "iamapplicable": "Completely Agree",
+        "iammatch": "Agree",
+        "fimimplementable": "Completely Agree",
+        "fimplausible": "Agree",
+        "fimdoable": "Agree",
+        "fimeasy": "Completely Agree",
+        "aimscore": 4.5,
+        "iamscore": 4.5,
+        "fimscore": 4.5,
+        "pb_implementation_sciences": {
+            "submitter_id": "25pb_implementation_science0"
+        }
+    },
+    {
+        "type": "pb_aim_iam_fim",
+        "submitter_id": "25pb_aim_iam_fim3",
+        "aimapproval": "Neither agree nor disagree",
+        "aimappealing": "Disagree",
+        "aimlike": "Neither agree nor disagree",
+        "aimwelcome": "Disagree",
+        "iamfitting": "Neither agree nor disagree",
+        "iamsuitable": "Disagree",
+        "iamapplicable": "Neither agree nor disagree",
+        "iammatch": "Disagree",
+        "fimimplementable": "Neither agree nor disagree",
+        "fimplausible": "Disagree",
+        "fimdoable": "Disagree",
+        "fimeasy": "Disagree",
+        "aimscore": 2.5,
+        "iamscore": 2.5,
+        "fimscore": 2.25,
+        "pb_implementation_sciences": {
+            "submitter_id": "25pb_implementation_science0"
+        }
+    }
+]

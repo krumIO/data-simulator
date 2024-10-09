@@ -1,0 +1,72 @@
+[
+    {
+        "type": "pb_us_audit",
+        "submitter_id": "25pb_us_audit0",
+        "usaudit_alcfreq": "2-3 times/week",
+        "usaudit_alcquant": "4 drinks",
+        "usaudit_alcexcess": "Weekly",
+        "usaudit_notstopdrnk": "Monthly",
+        "usaudit_faildoexpected": "Daily or almost daily",
+        "usaudit_needamdrink": "Less than monthly",
+        "usaudit_noremember": "Never",
+        "usaudit_injure": "Yes, but not in the last year",
+        "usaudit_concerncutdown": "Yes, during the last year",
+        "usaudit_total": 23,
+        "pb_substance_uses": {
+            "submitter_id": "25pb_substance_use0"
+        }
+    },
+    {
+        "type": "pb_us_audit",
+        "submitter_id": "25pb_us_audit1",
+        "usaudit_alcfreq": "Weekly",
+        "usaudit_alcquant": "3 drinks",
+        "usaudit_alcexcess": "Weekly",
+        "usaudit_notstopdrnk": "Less than monthly",
+        "usaudit_faildoexpected": "Less than monthly",
+        "usaudit_needamdrink": "Weekly",
+        "usaudit_guilt": "Weekly",
+        "usaudit_noremember": "Weekly",
+        "usaudit_injure": "Yes, but not in the last year",
+        "usaudit_concerncutdown": "Yes, during the last year",
+        "usaudit_total": 25,
+        "pb_substance_uses": {
+            "submitter_id": "25pb_substance_use0"
+        }
+    },
+    {
+        "type": "pb_us_audit",
+        "submitter_id": "25pb_us_audit2",
+        "usaudit_alcfreq": "2-3 times/week",
+        "usaudit_alcquant": "4 drinks",
+        "usaudit_alcexcess": "2-3 times/week",
+        "usaudit_notstopdrnk": "Weekly",
+        "usaudit_faildoexpected": "Less than monthly",
+        "usaudit_needamdrink": "Less than monthly",
+        "usaudit_noremember": "Less than monthly",
+        "usaudit_injure": "Yes, during the last year",
+        "usaudit_concerncutdown": "Yes, during the last year",
+        "usaudit_total": 25,
+        "pb_substance_uses": {
+            "submitter_id": "25pb_substance_use0"
+        }
+    },
+    {
+        "type": "pb_us_audit",
+        "submitter_id": "25pb_us_audit3",
+        "usaudit_alcfreq": "2-3 times/week",
+        "usaudit_alcquant": "2 drinks",
+        "usaudit_alcexcess": "Weekly",
+        "usaudit_notstopdrnk": "Weekly",
+        "usaudit_faildoexpected": "Weekly",
+        "usaudit_needamdrink": "Weekly",
+        "usaudit_guilt": "Weekly",
+        "usaudit_noremember": "Weekly",
+        "usaudit_injure": "Yes, but not in the last year",
+        "usaudit_concerncutdown": "Yes, but not in the last year",
+        "usaudit_total": 27,
+        "pb_substance_uses": {
+            "submitter_id": "25pb_substance_use0"
+        }
+    }
+]

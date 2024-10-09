@@ -1,0 +1,70 @@
+[
+    {
+        "type": "sup_spirituality",
+        "submitter_id": "25sup_spirituality0",
+        "bsssacred": "Many times a Day",
+        "bssvalue": "Every Day",
+        "bssrelated": "Most Days",
+        "bsspray": "Some Days",
+        "bssthanks": "Most Days",
+        "bssstrength": "Every Day",
+        "bssparticipate": "Some Days",
+        "bsstouched": "Many times a Day",
+        "bssalive": "Every Day",
+        "bssunderstanding": "Most Days",
+        "patient_baselines": {
+            "submitter_id": "25patient_baseline0"
+        }
+    },
+    {
+        "type": "sup_spirituality",
+        "submitter_id": "25sup_spirituality1",
+        "bsssacred": "Many times a Day",
+        "bssvalue": "Every Day",
+        "bssrelated": "Most Days",
+        "bsspray": "Every Day",
+        "bssthanks": "Many times a Day",
+        "bssstrength": "Every Day",
+        "bssparticipate": "Most Days",
+        "bsstouched": "Every Day",
+        "bssalive": "Many times a Day",
+        "bssunderstanding": "Many times a Day",
+        "patient_baselines": {
+            "submitter_id": "25patient_baseline0"
+        }
+    },
+    {
+        "type": "sup_spirituality",
+        "submitter_id": "25sup_spirituality2",
+        "bsssacred": "Most Days",
+        "bssvalue": "Every Day",
+        "bssrelated": "Many times a Day",
+        "bsspray": "Every Day",
+        "bssthanks": "Many times a Day",
+        "bssstrength": "Every Day",
+        "bssparticipate": "Many times a Day",
+        "bsstouched": "Every Day",
+        "bssalive": "Many times a Day",
+        "bssunderstanding": "Every Day",
+        "patient_baselines": {
+            "submitter_id": "25patient_baseline0"
+        }
+    },
+    {
+        "type": "sup_spirituality",
+        "submitter_id": "25sup_spirituality3",
+        "bsssacred": "Most Days",
+        "bssvalue": "Every Day",
+        "bssrelated": "Most Days",
+        "bsspray": "Most Days",
+        "bssthanks": "Most Days",
+        "bssstrength": "Some Days",
+        "bssparticipate": "Most Days",
+        "bsstouched": "Some Days",
+        "bssalive": "Most Days",
+        "bssunderstanding": "Some Days",
+        "patient_baselines": {
+            "submitter_id": "25patient_baseline0"
+        }
+    }
+]

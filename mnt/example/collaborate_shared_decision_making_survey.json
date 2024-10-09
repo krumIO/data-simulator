@@ -1,0 +1,45 @@
+[
+    {
+        "type": "collaborate_shared_decision_making_survey",
+        "submitter_id": "25collaborate_shared_decision_making_survey0",
+        "sdmunderstand": "Some effort was made",
+        "sdmlisten": "A lot effort was made",
+        "sdminclude": "Every effort was made",
+        "sdmscore": 4,
+        "pb_aim_iam_fims": {
+            "submitter_id": "25pb_aim_iam_fim0"
+        }
+    },
+    {
+        "type": "collaborate_shared_decision_making_survey",
+        "submitter_id": "25collaborate_shared_decision_making_survey1",
+        "sdmunderstand": "Every effort was made",
+        "sdmlisten": "A lot effort was made",
+        "sdmscore": 4.5,
+        "pb_aim_iam_fims": {
+            "submitter_id": "25pb_aim_iam_fim0"
+        }
+    },
+    {
+        "type": "collaborate_shared_decision_making_survey",
+        "submitter_id": "25collaborate_shared_decision_making_survey2",
+        "sdmunderstand": "Every effort was made",
+        "sdmlisten": "A lot effort was made",
+        "sdminclude": "A lot effort was made",
+        "sdmscore": 4.333333333333333,
+        "pb_aim_iam_fims": {
+            "submitter_id": "25pb_aim_iam_fim0"
+        }
+    },
+    {
+        "type": "collaborate_shared_decision_making_survey",
+        "submitter_id": "25collaborate_shared_decision_making_survey3",
+        "sdmunderstand": "A lot effort was made",
+        "sdmlisten": "Some effort was made",
+        "sdminclude": "A little effort was made",
+        "sdmscore": 3,
+        "pb_aim_iam_fims": {
+            "submitter_id": "25pb_aim_iam_fim0"
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "type": "ruca",
+        "submitter_id": "25ruca0",
+        "demruca1": "1",
+        "demruca2": "1",
+        "patient_baselines": {
+            "submitter_id": "25patient_baseline0"
+        }
+    },
+    {
+        "type": "ruca",
+        "submitter_id": "25ruca1",
+        "demruca1": "1",
+        "demruca2": "2",
+        "patient_baselines": {
+            "submitter_id": "25patient_baseline0"
+        }
+    },
+    {
+        "type": "ruca",
+        "submitter_id": "25ruca2",
+        "demruca1": "1",
+        "demruca2": "3",
+        "patient_baselines": {
+            "submitter_id": "25patient_baseline0"
+        }
+    },
+    {
+        "type": "ruca",
+        "submitter_id": "25ruca3",
+        "demruca1": "2",
+        "demruca2": "1",
+        "patient_baselines": {
+            "submitter_id": "25patient_baseline0"
+        }
+    }
+]

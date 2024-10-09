@@ -1,0 +1,42 @@
+[
+    {
+        "type": "pb_promis_cognitive_function",
+        "submitter_id": "25pb_promis_cognitive_function0",
+        "promiscogfxnconcscl": "Very much",
+        "promiscogfxnrememberscl": "Quite a bit",
+        "promiscognfxntotalscore": 9,
+        "pb_overall_functions": {
+            "submitter_id": "25pb_overall_function0"
+        }
+    },
+    {
+        "type": "pb_promis_cognitive_function",
+        "submitter_id": "25pb_promis_cognitive_function1",
+        "promiscogfxnconcscl": "Not at all",
+        "promiscogfxnrememberscl": "A little bit",
+        "promiscognfxntotalscore": 3,
+        "pb_overall_functions": {
+            "submitter_id": "25pb_overall_function0"
+        }
+    },
+    {
+        "type": "pb_promis_cognitive_function",
+        "submitter_id": "25pb_promis_cognitive_function2",
+        "promiscogfxnconcscl": "Very much",
+        "promiscogfxnrememberscl": "Quite a bit",
+        "promiscognfxntotalscore": 9,
+        "pb_overall_functions": {
+            "submitter_id": "25pb_overall_function0"
+        }
+    },
+    {
+        "type": "pb_promis_cognitive_function",
+        "submitter_id": "25pb_promis_cognitive_function3",
+        "promiscogfxnconcscl": "A little bit",
+        "promiscogfxnrememberscl": "Somewhat",
+        "promiscognfxntotalscore": 5,
+        "pb_overall_functions": {
+            "submitter_id": "25pb_overall_function0"
+        }
+    }
+]

@@ -1,0 +1,20 @@
+version: '3'
+services:
+  submit:
+    image: krumware/gen3-data-simulator:latest
+    volumes:
+    - ./token:/mnt/token
+    - /mnt:/mnt
+    command: poetry run data-simulator submitting_data --host=https://heal.krum.app --project=DEV/test --dir=/mnt/$RECORD_ID --access_token_file=/mnt/token --chunk_size=1
+    environment:
+    - RECORD_ID=example
+
+  simulate:
+    image: krumware/gen3-data-simulator:latest
+    volumes:
+    - /mnt:/mnt
+    command: poetry run data-simulator simulate --url https://heal.krum.app/dictionary_schema --path /mnt/simulated/ --program DEV --project test
+
+  validate:
+    image: krumware/gen3-data-simulator:latest
+    command: poetry run data-simulator validate --url https://heal.krum.app/dictionary_schema

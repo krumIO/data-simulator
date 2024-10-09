@@ -1,0 +1,38 @@
+[
+    {
+        "type": "pb_impowr_overdose_screening",
+        "submitter_id": "25pb_impowr_overdose_screening0",
+        "opioidodnumtimes": 6,
+        "opioidodnarcan": 2,
+        "pb_substance_uses": {
+            "submitter_id": "25pb_substance_use0"
+        }
+    },
+    {
+        "type": "pb_impowr_overdose_screening",
+        "submitter_id": "25pb_impowr_overdose_screening1",
+        "opioidodnumtimes": 2,
+        "opioidodnarcan": 2,
+        "pb_substance_uses": {
+            "submitter_id": "25pb_substance_use0"
+        }
+    },
+    {
+        "type": "pb_impowr_overdose_screening",
+        "submitter_id": "25pb_impowr_overdose_screening2",
+        "opioidodnumtimes": 2,
+        "opioidodnarcan": 2,
+        "pb_substance_uses": {
+            "submitter_id": "25pb_substance_use0"
+        }
+    },
+    {
+        "type": "pb_impowr_overdose_screening",
+        "submitter_id": "25pb_impowr_overdose_screening3",
+        "opioidodnumtimes": 4,
+        "opioidodnarcan": 2,
+        "pb_substance_uses": {
+            "submitter_id": "25pb_substance_use0"
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "type": "pb_modified_taps_one",
+        "submitter_id": "25pb_modified_taps_one0",
+        "tapstobaccoproductscl": "Less Than Monthly",
+        "tapsprescriptionmedusescl": "Monthly",
+        "pb_substance_uses": {
+            "submitter_id": "25pb_substance_use0"
+        }
+    },
+    {
+        "type": "pb_modified_taps_one",
+        "submitter_id": "25pb_modified_taps_one1",
+        "tapstobaccoproductscl": "Less Than Monthly",
+        "tapsprescriptionmedusescl": "Less Than Monthly",
+        "pb_substance_uses": {
+            "submitter_id": "25pb_substance_use0"
+        }
+    },
+    {
+        "type": "pb_modified_taps_one",
+        "submitter_id": "25pb_modified_taps_one2",
+        "tapstobaccoproductscl": "Daily or Almost Daily",
+        "tapsprescriptionmedusescl": "Daily or Almost Daily",
+        "pb_substance_uses": {
+            "submitter_id": "25pb_substance_use0"
+        }
+    },
+    {
+        "type": "pb_modified_taps_one",
+        "submitter_id": "25pb_modified_taps_one3",
+        "tapstobaccoproductscl": "Daily or Almost Daily",
+        "tapsprescriptionmedusescl": "Weekly",
+        "pb_substance_uses": {
+            "submitter_id": "25pb_substance_use0"
+        }
+    }
+]

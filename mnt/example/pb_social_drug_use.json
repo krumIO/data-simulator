@@ -1,0 +1,38 @@
+[
+    {
+        "type": "pb_social_drug_use",
+        "submitter_id": "25pb_social_drug_use0",
+        "socialdetd11a": "Yes",
+        "socialdetd11b": "No",
+        "pb_substance_uses": {
+            "submitter_id": "25pb_substance_use0"
+        }
+    },
+    {
+        "type": "pb_social_drug_use",
+        "submitter_id": "25pb_social_drug_use1",
+        "socialdetd11a": "Yes",
+        "socialdetd11b": "Yes",
+        "pb_substance_uses": {
+            "submitter_id": "25pb_substance_use0"
+        }
+    },
+    {
+        "type": "pb_social_drug_use",
+        "submitter_id": "25pb_social_drug_use2",
+        "socialdetd11a": "Yes",
+        "socialdetd11b": "No",
+        "pb_substance_uses": {
+            "submitter_id": "25pb_substance_use0"
+        }
+    },
+    {
+        "type": "pb_social_drug_use",
+        "submitter_id": "25pb_social_drug_use3",
+        "socialdetd11a": "Yes",
+        "socialdetd11b": "No",
+        "pb_substance_uses": {
+            "submitter_id": "25pb_substance_use0"
+        }
+    }
+]

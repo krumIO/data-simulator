@@ -1,0 +1,38 @@
+[
+    {
+        "type": "pb_promis_propr",
+        "submitter_id": "25pb_promis_propr0",
+        "promis29totalscore": 0,
+        "proprscore": 0,
+        "pb_health_economics": {
+            "submitter_id": "25pb_health_economics0"
+        }
+    },
+    {
+        "type": "pb_promis_propr",
+        "submitter_id": "25pb_promis_propr1",
+        "promis29totalscore": 0,
+        "proprscore": 0,
+        "pb_health_economics": {
+            "submitter_id": "25pb_health_economics0"
+        }
+    },
+    {
+        "type": "pb_promis_propr",
+        "submitter_id": "25pb_promis_propr2",
+        "promis29totalscore": 0,
+        "proprscore": 0,
+        "pb_health_economics": {
+            "submitter_id": "25pb_health_economics0"
+        }
+    },
+    {
+        "type": "pb_promis_propr",
+        "submitter_id": "25pb_promis_propr3",
+        "promis29totalscore": 123,
+        "proprscore": 128,
+        "pb_health_economics": {
+            "submitter_id": "25pb_health_economics0"
+        }
+    }
+]

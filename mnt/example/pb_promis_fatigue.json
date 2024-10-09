@@ -1,0 +1,50 @@
+[
+    {
+        "type": "pb_promis_fatigue",
+        "submitter_id": "25pb_promis_fatigue0",
+        "promisfatgfeelpst7dyscl": "Very much",
+        "promistrsttskftgpst7dyscl": "Quite a bit",
+        "promisfatgpst7dyavgscl": "Somewhat",
+        "promisrndwnflpst7dyavgscl": "Quite a bit",
+        "promisfat4atotalscore": 16,
+        "pb_sleep_fatigues": {
+            "submitter_id": "25pb_sleep_fatigue0"
+        }
+    },
+    {
+        "type": "pb_promis_fatigue",
+        "submitter_id": "25pb_promis_fatigue1",
+        "promisfatgfeelpst7dyscl": "Very much",
+        "promistrsttskftgpst7dyscl": "Quite a bit",
+        "promisfatgpst7dyavgscl": "Very much",
+        "promisrndwnflpst7dyavgscl": "Quite a bit",
+        "promisfat4atotalscore": 18,
+        "pb_sleep_fatigues": {
+            "submitter_id": "25pb_sleep_fatigue0"
+        }
+    },
+    {
+        "type": "pb_promis_fatigue",
+        "submitter_id": "25pb_promis_fatigue2",
+        "promisfatgfeelpst7dyscl": "Very much",
+        "promistrsttskftgpst7dyscl": "Quite a bit",
+        "promisfatgpst7dyavgscl": "Very much",
+        "promisrndwnflpst7dyavgscl": "Very much",
+        "promisfat4atotalscore": 19,
+        "pb_sleep_fatigues": {
+            "submitter_id": "25pb_sleep_fatigue0"
+        }
+    },
+    {
+        "type": "pb_promis_fatigue",
+        "submitter_id": "25pb_promis_fatigue3",
+        "promisfatgfeelpst7dyscl": "Very much",
+        "promistrsttskftgpst7dyscl": "Quite a bit",
+        "promisfatgpst7dyavgscl": "Very much",
+        "promisrndwnflpst7dyavgscl": "Quite a bit",
+        "promisfat4atotalscore": 18,
+        "pb_sleep_fatigues": {
+            "submitter_id": "25pb_sleep_fatigue0"
+        }
+    }
+]

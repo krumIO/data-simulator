@@ -1,0 +1,53 @@
+[
+    {
+        "type": "pb_primarycare_ptsd_screening",
+        "submitter_id": "25pb_primarycare_ptsd_screening0",
+        "pcptsdtraumayn": "Yes",
+        "pcptsdthoughtyn": "Yes",
+        "pcptavoidanceyn": "Yes",
+        "pcptsdhypervigyn": "Yes",
+        "pcptsddetachyn": "Yes",
+        "pcptsdguiltyn": "Yes",
+        "pcptsd5score": 5,
+        "pb_ptsds": {
+            "submitter_id": "25pb_ptsd0"
+        }
+    },
+    {
+        "type": "pb_primarycare_ptsd_screening",
+        "submitter_id": "25pb_primarycare_ptsd_screening1",
+        "pcptsdtraumayn": "Yes",
+        "pcptsdthoughtyn": "Yes",
+        "pcptavoidanceyn": "Yes",
+        "pcptsdhypervigyn": "Yes",
+        "pcptsddetachyn": "Yes",
+        "pcptsdguiltyn": "Yes",
+        "pcptsd5score": 5,
+        "pb_ptsds": {
+            "submitter_id": "25pb_ptsd0"
+        }
+    },
+    {
+        "type": "pb_primarycare_ptsd_screening",
+        "submitter_id": "25pb_primarycare_ptsd_screening2",
+        "pcptsdtraumayn": "No",
+        "pcptsd5score": 0,
+        "pb_ptsds": {
+            "submitter_id": "25pb_ptsd0"
+        }
+    },
+    {
+        "type": "pb_primarycare_ptsd_screening",
+        "submitter_id": "25pb_primarycare_ptsd_screening3",
+        "pcptsdtraumayn": "Yes",
+        "pcptsdthoughtyn": "Yes",
+        "pcptavoidanceyn": "Yes",
+        "pcptsdhypervigyn": "Yes",
+        "pcptsddetachyn": "Yes",
+        "pcptsdguiltyn": "Yes",
+        "pcptsd5score": 5,
+        "pb_ptsds": {
+            "submitter_id": "25pb_ptsd0"
+        }
+    }
+]

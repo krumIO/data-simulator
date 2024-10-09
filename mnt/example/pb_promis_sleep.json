@@ -1,0 +1,58 @@
+[
+    {
+        "type": "pb_promis_sleep",
+        "submitter_id": "25pb_promis_sleep0",
+        "promissleepwasrefreshscl": "A little bit",
+        "promissleepqualityscl": "Poor",
+        "promisproblemwithslpscl": "Very much",
+        "promisdifficltfallaslpscl": "Quite a bit",
+        "promisslpwasrestlessscl": "Somewhat",
+        "promistryhardgettoslpscl": "Very much",
+        "promisslpdist6totalscore": 25,
+        "pb_sleep_fatigues": {
+            "submitter_id": "25pb_sleep_fatigue0"
+        }
+    },
+    {
+        "type": "pb_promis_sleep",
+        "submitter_id": "25pb_promis_sleep1",
+        "promissleepwasrefreshscl": "Not at all",
+        "promissleepqualityscl": "Poor",
+        "promisproblemwithslpscl": "Quite a bit",
+        "promisdifficltfallaslpscl": "Very much",
+        "promisslpwasrestlessscl": "Quite a bit",
+        "promistryhardgettoslpscl": "Very much",
+        "promisslpdist6totalscore": 27,
+        "pb_sleep_fatigues": {
+            "submitter_id": "25pb_sleep_fatigue0"
+        }
+    },
+    {
+        "type": "pb_promis_sleep",
+        "submitter_id": "25pb_promis_sleep2",
+        "promissleepwasrefreshscl": "Not at all",
+        "promissleepqualityscl": "Poor",
+        "promisproblemwithslpscl": "Quite a bit",
+        "promisdifficltfallaslpscl": "Very much",
+        "promisslpwasrestlessscl": "Quite a bit",
+        "promistryhardgettoslpscl": "Very much",
+        "promisslpdist6totalscore": 27,
+        "pb_sleep_fatigues": {
+            "submitter_id": "25pb_sleep_fatigue0"
+        }
+    },
+    {
+        "type": "pb_promis_sleep",
+        "submitter_id": "25pb_promis_sleep3",
+        "promissleepwasrefreshscl": "A little bit",
+        "promissleepqualityscl": "Poor",
+        "promisproblemwithslpscl": "Quite a bit",
+        "promisdifficltfallaslpscl": "Very much",
+        "promisslpwasrestlessscl": "Quite a bit",
+        "promistryhardgettoslpscl": "Very much",
+        "promisslpdist6totalscore": 26,
+        "pb_sleep_fatigues": {
+            "submitter_id": "25pb_sleep_fatigue0"
+        }
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "type": "pb_impowr_covid_impact",
+        "submitter_id": "25pb_impowr_covid_impact0",
+        "covhad": "I don't think I had the coronavirus",
+        "covidcp": "DID NOT AFFECT my chronic pain",
+        "covoud": "DID NOT AFFECT my OUD",
+        "covcpaccess": "DID NOT AFFECT my chronic pain access",
+        "covoudaccess": "DID NOT AFFECT my OUD access",
+        "pb_covids": {
+            "submitter_id": "25pb_covid0"
+        }
+    },
+    {
+        "type": "pb_impowr_covid_impact",
+        "submitter_id": "25pb_impowr_covid_impact1",
+        "covhad": "I don't think I had the coronavirus",
+        "covidcp": "DID NOT AFFECT my chronic pain",
+        "covoud": "DID NOT AFFECT my OUD",
+        "covcpaccess": "DID NOT AFFECT my chronic pain access",
+        "covoudaccess": "DID NOT AFFECT my OUD access",
+        "pb_covids": {
+            "submitter_id": "25pb_covid0"
+        }
+    },
+    {
+        "type": "pb_impowr_covid_impact",
+        "submitter_id": "25pb_impowr_covid_impact2",
+        "covhad": "I think I had the coronavirus",
+        "covsx": "Positive test and had symptoms",
+        "covidcp": "Made chronic pain A LOT WORSE",
+        "covoud": "Made OUD A LITTLE WORSE",
+        "covcpaccess": "Made chronic pain access A LOT WORSE",
+        "covoudaccess": "Made OUD access A LOT WORSE",
+        "pb_covids": {
+            "submitter_id": "25pb_covid0"
+        }
+    },
+    {
+        "type": "pb_impowr_covid_impact",
+        "submitter_id": "25pb_impowr_covid_impact3",
+        "covhad": "I don't think I had the coronavirus",
+        "covidcp": "Made chronic pain A LOT WORSE",
+        "covoud": "Made OUD A LOT WORSE",
+        "covcpaccess": "Made chronic pain access A LOT WORSE",
+        "covoudaccess": "Made OUD access A LOT WORSE",
+        "pb_covids": {
+            "submitter_id": "25pb_covid0"
+        }
+    }
+]

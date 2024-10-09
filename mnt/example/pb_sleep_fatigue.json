@@ -1,0 +1,9 @@
+[
+    {
+        "type": "pb_sleep_fatigue",
+        "submitter_id": "25pb_sleep_fatigue0",
+        "patient_baselines": {
+            "submitter_id": "25patient_baseline0"
+        }
+    }
+]

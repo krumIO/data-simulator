@@ -1,0 +1,66 @@
+[
+    {
+        "type": "pb_promis_acohol",
+        "submitter_id": "25pb_promis_acohol0",
+        "psfalc7aanydrinking": "1",
+        "psfalc7atoomuchtime": "Sometimes",
+        "psfalc7adrankheavily": "Often",
+        "psfalc7adranktoomuch": "Almost Always",
+        "psfalc7adrankmorethnplan": "Often",
+        "psfalc7atroublecontrol": "Sometimes",
+        "psfalc7adifficulttostop": "Often",
+        "psfalc7adifficulttocontrol": "Almost Always",
+        "psfalc7atotalscore": 28,
+        "pb_substance_uses": {
+            "submitter_id": "25pb_substance_use0"
+        }
+    },
+    {
+        "type": "pb_promis_acohol",
+        "submitter_id": "25pb_promis_acohol1",
+        "psfalc7aanydrinking": "1",
+        "psfalc7atoomuchtime": "Often",
+        "psfalc7adrankheavily": "Sometimes",
+        "psfalc7adranktoomuch": "Sometimes",
+        "psfalc7adrankmorethnplan": "Sometimes",
+        "psfalc7atroublecontrol": "Sometimes",
+        "psfalc7adifficulttostop": "Sometimes",
+        "psfalc7adifficulttocontrol": "Sometimes",
+        "psfalc7atotalscore": 22,
+        "pb_substance_uses": {
+            "submitter_id": "25pb_substance_use0"
+        }
+    },
+    {
+        "type": "pb_promis_acohol",
+        "submitter_id": "25pb_promis_acohol2",
+        "psfalc7aanydrinking": "1",
+        "psfalc7atoomuchtime": "Often",
+        "psfalc7adrankheavily": "Sometimes",
+        "psfalc7adranktoomuch": "Often",
+        "psfalc7adrankmorethnplan": "Often",
+        "psfalc7atroublecontrol": "Almost Always",
+        "psfalc7adifficulttostop": "Often",
+        "psfalc7adifficulttocontrol": "Almost Always",
+        "psfalc7atotalscore": 29,
+        "pb_substance_uses": {
+            "submitter_id": "25pb_substance_use0"
+        }
+    },
+    {
+        "type": "pb_promis_acohol",
+        "submitter_id": "25pb_promis_acohol3",
+        "psfalc7aanydrinking": "1",
+        "psfalc7atoomuchtime": "Sometimes",
+        "psfalc7adrankheavily": "Often",
+        "psfalc7adranktoomuch": "Often",
+        "psfalc7adrankmorethnplan": "Often",
+        "psfalc7atroublecontrol": "Almost Always",
+        "psfalc7adifficulttostop": "Often",
+        "psfalc7adifficulttocontrol": "Almost Always",
+        "psfalc7atotalscore": 29,
+        "pb_substance_uses": {
+            "submitter_id": "25pb_substance_use0"
+        }
+    }
+]

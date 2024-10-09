@@ -1,26 +1,29 @@
 
-FROM python:3.6-alpine
+FROM python:3.9-slim
 
-RUN apk update \
-     && apk add --no-cache \
+RUN pip3 install --upgrade pip
+RUN pip3 install poetry
+
+RUN apt-get update \
+     && apt-get install \
      ca-certificates \
      gcc \
      bash \
      curl \
      musl-dev \
      libffi-dev \
-     openssl-dev \
-     postgresql-dev \
      git \
-     g++ \
-     && pip install --upgrade pip
+     g++ -y
+
 # add g++ because greenlet needs it (imported by sqlalchemy 1.4)
 
-COPY . /data-simulator
-WORKDIR /data-simulator
+WORKDIR /app
+COPY pyproject.toml poetry.lock /app
 
 ENV CRYPTOGRAPHY_DONT_BUILD_RUST=1
+COPY . .
+RUN poetry install -vvv
 
-RUN pip3 install poetry
-RUN poetry config virtualenvs.create false
-RUN poetry install -vv
+
+
+ENTRYPOINT ["poetry", "run", "data-simulator", "submitting_data", "--host=https://heal.krum.app", "--project=sim/GEN", "--dir=./simulated/GEN/1/", "--access_token_file=./token", "--chunk_size=1"]
