@@ -1,20 +1,56 @@
-version: '3'
 services:
   submit:
     image: krumware/gen3-data-simulator:latest
     volumes:
-    - ./token:/mnt/token
-    - /mnt:/mnt
-    command: poetry run data-simulator submitting_data --host=https://heal.krum.app --project=DEV/test --dir=/mnt/$RECORD_ID --access_token_file=/mnt/token --chunk_size=1
+      - ./token:/test_mnt/token
+      - ./mnt:/test_mnt
+    entrypoint:
+      - poetry
+    command:
+      - poetry
+      - run
+      - data-simulator
+      - submitting_data
+      - --host=https://heal.krum.app
+      - --project=DEV/test
+      - --dir=/test_mnt/$RECORD_ID
+      - --access_token_file=/test_mnt/token
+      - --chunk_size=1
     environment:
-    - RECORD_ID=example
+      - RECORD_ID=example
+    networks:
+      - data_sim_network
 
   simulate:
     image: krumware/gen3-data-simulator:latest
     volumes:
-    - /mnt:/mnt
-    command: poetry run data-simulator simulate --url https://heal.krum.app/dictionary_schema --path /mnt/simulated/ --program DEV --project test
+      - ./mnt:/test_mnt
+    entrypoint:
+      - poetry
+    command:
+      - run
+      - data-simulator
+      - simulate
+      - --url=https://heal.krum.app/dictionary_schema
+      - --path=/test_mnt/simulated/
+      - --program=DEV
+      - --project=test
+    networks:
+      - data_sim_network
 
   validate:
     image: krumware/gen3-data-simulator:latest
-    command: poetry run data-simulator validate --url https://heal.krum.app/dictionary_schema
+    entrypoint:
+      - poetry
+    command:
+      - poetry
+      - run
+      - data-simulator
+      - validate
+      - --url=https://heal.krum.app/dictionary_schema
+    networks:
+      - data_sim_network
+
+networks:
+  data_sim_network:
+    driver: bridge
