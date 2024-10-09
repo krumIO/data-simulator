@@ -3,3 +3,7 @@ main_test.py
 sample_test_data/
 # Distribution / packaging
 *.egg-info/
+
+
+mnt/simulated/*
+!mnt/simulated/DataImportOrder.txt
