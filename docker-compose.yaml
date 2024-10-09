@@ -47,7 +47,7 @@ services:
       - run
       - data-simulator
       - validate
-      - --url=https://heal.krum.app/dictionary_schema
+      - --url=https://heal.krum.app/dictionary_schema/
     networks:
       - data_sim_network
 
