@@ -31,7 +31,7 @@ services:
       - run
       - data-simulator
       - simulate
-      - --url=https://heal.krum.app/dictionary_schema
+      - --url=https://heal.krum.app/dictionary_schema/
       - --path=/test_mnt/simulated/
       - --program=DEV
       - --project=test
